@@ -1,0 +1,1288 @@
+ThemeID,RAG,ConditionID,Category,ConditionName,OldConditionName,VariableType,OutputType,Comment,Available
+7,G,92,PHENOTYPE,Asplenia,NULL,Case Finding,Dichotomous,,18/05/2021
+1,,95,PHENOTYPE,Chronic Kidney Disease,NULL,, ,,16/06/2020
+1,,100,EXPOSURE,Body Mass Index,NULL,, ,,17/06/2020
+2,,100,,Body Mass Index,NULL,, ,,17/06/2020
+1,,105,EXPOSURE,Height,NULL,, ,,17/06/2020
+2,G,105,,Height,NULL,, ,,17/06/2020
+1,,110,EXPOSURE,Weight,NULL,, ,,17/06/2020
+2,G,110,,Weight,NULL,, ,,17/06/2020
+7,G,1001,PHENOTYPE,MusculoskeletalSymptoms-WRpt,Symptoms involving musculoskeletal,Case finding,Dichotomous,For weekly reports. Based specifically on ICD R25-R29,15/09/2020
+7,G,1003,PHENOTYPE,LaryngitisOrTracheitis-Wrpt,Laryngitis and Tracheitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,24/07/2020
+7,G,1005,PHENOTYPE,StrepThroatOrPeritonsillarAbscess-WRpt,Strep Throat and Peritonsillar Abscess,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,24/07/2020
+7,G,1006,PHENOTYPE,IntestinalInfectiousDisease-WRpt,Intestinal Infectious Diseases,Case finding,Dichotomous,For weekly reports.  Guided by ICD10: A00-A09,20/10/2020
+7,G,1007,PHENOTYPE,UpperRespiratoryInfection-WRpt,Upper Respiratory Tract Infections,Case finding,Dichotomous,For weekly reports,16/10/2020
+7,G,1008,PHENOTYPE,Asthma-WRpt,Asthma,Case finding,Dichotomous,"For weekly reports. Includes semantic tags disorders, findings, situations, events etc. - anything signifying diagnois of astham highly likely",16/06/2020
+7,G,1011,PHENOTYPE,Varicella-WRpt,Chickenpox,Case finding,Dichotomous,,22/09/2020
+7,G,1018,PHENOTYPE,AcuteOtitisMedia-WRpt,Otitis Media Acute,Case finding,Dichotomous,For weekly reports,16/10/2020
+7,G,1020,PHENOTYPE,Influenza-likeIllness-WRpt,Influenza-like illness,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/06/2020
+7,G,1021,PHENOTYPE,Rubella-WRpt,Rubella,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,15/07/2020
+7,G,1022,PHENOTYPE,DisorderOfRespiratorySystem-WRpt,Respiratory System Diseases,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,21/07/2020
+7,G,1028,PHENOTYPE,RespiratoryAndChestSymptoms-WRpt,Symptoms involving Respiratory and Chest,Symptom,Dichotomous,"For weekly reports. Based specifically on ICD R05-R07, R09",29/07/2020
+7,G,1030,PHENOTYPE,Mumps-WRpt,Mumps,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,15/07/2020
+7,G,1031,PHENOTYPE,Impetigo-WRpt,Impetigo,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1035,PHENOTYPE,ConjunctivalDisorder-WRpt,Conjunctival Disorders,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,05/08/2020
+7,G,1036,PHENOTYPE,Pleurisy-WRpt,Pleurisy,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1037,PHENOTYPE,HerpesSimplex-WRpt,HerpesSimplex,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1038,PHENOTYPE,SkinAndIntegumentSymptoms-WRpt,Symptoms involving Skin and Integument Tissues,Case finding,Dichotomous,For weekly reports. Based specifically on ICD R20 - R23,16/09/2020
+7,G,1042,PHENOTYPE,InfestationCausedBySarcoptes-WRpt,Scabies,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,20/07/2020
+7,G,1044,PHENOTYPE,Pertussis-WRpt,Whooping Cough,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1045,PHENOTYPE,MeningitisOrEncephalitis-WRpt,Meningitis and Encephalitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,21/07/2020
+7,G,1046,PHENOTYPE,UrinaryTractInfectiousDisease-WRpt,Urinary Tract Infections,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1048,PHENOTYPE,NoninfectiousEnteritisOrColitis-WRpt,Non-infective Enteritis and Colitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,20/07/2020
+7,G,1052,PHENOTYPE,PneumoniaOrPneumonitis-WRpt,Pneumonia and Pneumonitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/06/2020
+7,G,1054,PHENOTYPE,Sinusitis-WRpt,Sinusitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,20/07/2020
+7,G,1055,PHENOTYPE,LowerRespiratoryTractInfection-WRpt,Lower Respiratory Tract Infections,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1056,PHENOTYPE,ViralHepatitis-WRpt,Viral Hepatitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1057,PHENOTYPE,AllergicRhinitis-WRpt,Allergic Rhinitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/06/2020
+7,G,1058,PHENOTYPE,Bronchitis-WRpt,Bronchitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag.  Excludes bronchiolitis,17/10/2020
+7,G,1060,PHENOTYPE,HerpesZoster-WRpt,Herpes Zoster,Case finding,Dichotomous,,22/09/2020
+7,G,1061,PHENOTYPE,InfectiousMononucleosis-WRpt,Infectious Mononucleosis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1062,PHENOTYPE,InfectionOfSkinOrsubcutaneousTissues-WRpt,Skin and Subcutaneous Tissue Infections,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,06/08/2020
+7,G,1063,PHENOTYPE,TonsillitisOrPharyngitis-WRpt,Tonsillitis and acute Pharyngitis,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/09/2020
+7,G,1066,PHENOTYPE,PeripheralNerveDisease-WRpt,Peripheral Nervous Disease,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,17/09/2020
+7,G,1067,PHENOTYPE,BullousDermatoses-WRpt,Bullous Dermatoses,Case finding,Dichotomous,For weekly reports. Excludes simple blisters traumatic and otherwise.  Limited to concepts with disorder semantic tag,05/08/2020
+7,G,1068,PHENOTYPE,Measles-WRpt,Measles,Case finding,Dichotomous,For weekly reports. Limited to concepts with disorder semantic tag,16/07/2020
+1,,1500,INVESTGATION,eGFR,NULL,, ,,16/06/2020
+1,,1501,INVESTIGATION,PlateletCount,NULL,Investigation,Numeric,,17/06/2020
+2,G,1501,INVESTIGATION,PlateletCount,NULL,Investigation,Numeric,,17/06/2020
+1,,1502,INVESTGATION,BMICat_normal,NULL,Case finding,Dichotomous,,17/06/2020
+2,G,1502,,BMICat_normal,NULL,Case finding,Dichotomous,,17/06/2020
+1,,1503,INVESTGATION,BMICat_obese,NULL,Case finding,Dichotomous,,17/06/2020
+2,G,1503,,BMICat_obese,NULL,Case finding,Dichotomous,,17/06/2020
+1,,1504,INVESTGATION,BMICat_Overwt,NULL,Case finding,Dichotomous,,17/06/2020
+2,G,1504,,BMICat_Overwt,NULL,Case finding,Dichotomous,,17/06/2020
+1,,1505,INVESTGATION,BMICat_Severeobesity,NULL,Case finding,Dichotomous,,17/06/2020
+2,G,1505,,BMICat_Severeobesity,NULL,Case finding,Dichotomous,,17/06/2020
+1,,1506,OUTCOME,COVID19HospDisch,NULL,, ,,17/06/2020
+2,G,1506,,COVID19HospDisch,NULL,, ,,17/06/2020
+1,,1507,OUTCOME,COVID-19HospAttempt,NULL,, ,,17/06/2020
+2,G,1507,,COVID-19HospAttempt,NULL,, ,,17/06/2020
+1,,1508,OUTCOME,COVID-19MechVent,NULL,, ,,17/06/2020
+2,G,1508,,COVID-19MechVent,NULL,, ,,17/06/2020
+1,,1509,OUTCOME,COVID-19OxygenRxAttempt,NULL,, ,,17/06/2020
+2,G,1509,,COVID-19OxygenRxAttempt,NULL,, ,,17/06/2020
+1,,1510,OUTCOME,COVID-19TimeICU,NULL,, ,,17/06/2020
+2,G,1510,,COVID-19TimeICU,NULL,, ,,17/06/2020
+1,,1511,INVESTGATION,CRP_elevated,NULL,, ,,17/06/2020
+2,G,1511,,CRP_elevated,NULL,, ,,17/06/2020
+1,,1512,INVESTGATION,CRP_normal,NULL,, ,,17/06/2020
+2,G,1512,,CRP_normal,NULL,, ,,17/06/2020
+1,,1513,INVESTGATION,CRP_numeric,NULL,, ,,17/06/2020
+2,G,1513,,CRP_numeric,NULL,, ,,17/06/2020
+1,,1514,INVESTGATION,LFT_ALT,NULL,, ,,17/06/2020
+2,G,1514,,LFT_ALT,NULL,, ,,17/06/2020
+1,,1515,INVESTGATION,LFT_AST,NULL,, ,,17/06/2020
+2,G,1515,,LFT_AST,NULL,, ,,17/06/2020
+1,,1516,INVESTGATION,DMARD,NULL,, ,,17/06/2020
+1,,1517,INVESTGATION,AntiCoagMonitor,NULL,, ,,17/06/2020
+1,,1518,INVESTGATION,INRMonitor_num,NULL,, ,,17/06/2020
+1,,1519,OUTCOME,COVID-19Shielded,NULL,Case finding,Dichotomous,Use with variable 5006 to ensure latest record. Indicative of being in high risk category for developing serious COVID-19 complication,17/06/2020
+2,G,1519,,COVID-19Shielded,NULL,Case finding,Dichotomous,Use with variable 5006 to ensure latest record. Indicative of being in high risk category for developing serious COVID-19 complication,17/06/2020
+7,G,1519,PHENOTYPE,COVID-19Shielded,NULL,Case finding,Dichotomous,Use with variable 5006 to ensure latest record. Indicative of being in high risk category for developing serious COVID-19 complication,17/06/2020
+1,,1520,EXPOSURE,Temperature,NULL,Case Finding,Numeric,Observation of body temperature,17/06/2020
+2,G,1520,,Temperature,NULL,Case Finding,Numeric,Observation of body temperature,17/06/2020
+1,,1521,EXPOSURE,Fever,NULL,Case Finding,Dichotomous,Any finding of fever,17/06/2020
+2,G,1521,,Fever,NULL,Case Finding,Dichotomous,Any finding of fever,17/06/2020
+1,,1522,INVESTGATION,HbA1c_IFCC,NULL,, ,,19/06/2020
+1,,1523,INVESTGATION,HbA1c_DCCT,NULL,, ,,19/06/2020
+1,,1524,INVESTGATION,HbA1c_Unspecified,NULL,, ,,19/06/2020
+1,,1525,PHENOTYPE,PeriphVascDiseaseLeg,NULL,, ,,20/06/2020
+1,,1526,PHENOTYPE,ChronicLungDisease,NULL,, ,,20/06/2020
+2,,1527,PHENOTYPE,cancer_groups_cervical_InSitu_CIN3,NULL,, ,,22/06/2020
+2,,1528,PHENOTYPE,cancer_groups_cervical_total,NULL,, ,,22/06/2020
+2,,1529,PHENOTYPE,cancer_groups_colon_InSitu,NULL,, ,,22/06/2020
+2,,1530,PHENOTYPE,cancer_groups_colon_total,NULL,, ,,22/06/2020
+2,,1531,PHENOTYPE,cancer_groups_melanoma_InSitu,NULL,, ,,22/06/2020
+2,,1532,PHENOTYPE,cancer_groups_myeloma_MGUS,NULL,, ,,22/06/2020
+2,,1533,PHENOTYPE,cancer_groups_oesophagus_Barretts_InSitu,NULL,, ,,22/06/2020
+2,,1534,PHENOTYPE,cancer_groups_oesophagus_total,NULL,, ,,22/06/2020
+2,,1535,PHENOTYPE,cancer_groups_pancreas_InSitu,NULL,, ,,22/06/2020
+2,,1536,PHENOTYPE,cancer_groups_pancreas_total,NULL,, ,,22/06/2020
+2,,1537,PHENOTYPE,cancer_groups_stomach_InSitu,NULL,, ,,22/06/2020
+2,,1538,PHENOTYPE,cancer_groups_stomach_total,NULL,, ,,22/06/2020
+2,,1539,,cancer_symptoms_postmenopausal_bleeding,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,,1540,,cancer_symptoms_vaginaldischarge,NULL,, ,,22/06/2020
+2,,1541,,cancer_2ww_referrals_urol,NULL,, ,,24/06/2020
+2,,1542,,cancer_2ww_referrals_UpperGI,NULL,, ,,24/06/2020
+2,,1543,,cancer_2ww_referrals_Skin,NULL,, ,,24/06/2020
+2,,1544,,cancer_2ww_referrals_Sarcoma,NULL,, ,,24/06/2020
+2,,1545,,cancer_2ww_referrals_Lung,NULL,, ,,24/06/2020
+2,,1546,,cancer_2ww_referrals_HeadNeck,NULL,, ,,24/06/2020
+2,,1547,,cancer_2ww_referrals_HaemMalig,NULL,, ,,24/06/2020
+2,,1548,,cancer_2ww_referrals_Gynae,NULL,, ,,24/06/2020
+2,,1549,,cancer_2ww_referrals_Colorectal,NULL,, ,,24/06/2020
+2,,1550,,cancer_2ww_referrals_Breast,NULL,, ,,24/06/2020
+2,,1551,,cancer_2ww_referrals_LowerGI,NULL,, ,,24/06/2020
+2,,1552,,cancer_2ww_referrals_Braincancer,NULL,, ,,24/06/2020
+2,,1553,PHENOTYPE,cancer_groups_bladder_InSitu,NULL,, ,,24/06/2020
+2,,1554,PHENOTYPE,cancer_groups_bladder_Total,NULL,, ,,24/06/2020
+2,,1555,PHENOTYPE,cancer_groups_prostateCa_InSitu,NULL,, ,,24/06/2020
+2,,1556,PHENOTYPE,cancer_groups_prostateCa_Total,NULL,, ,,24/06/2020
+2,,1557,PHENOTYPE,cancer_groups_prostateCa_Primary,NULL,, ,,24/06/2020
+2,,1558,PHENOTYPE,cancer_groups_ovarian_total,NULL,, ,,24/06/2020
+2,,1559,PHENOTYPE,cancer_groups_endometrial_InSitu,NULL,, ,,24/06/2020
+2,,1560,PHENOTYPE,cancer_groups_endometrial_total,NULL,, ,,24/06/2020
+2,,1561,PHENOTYPE,cancer_groups_renal_InSitu,NULL,, ,,26/06/2020
+2,,1562,,cancer_symptoms_Test_Scrotum_Pain,NULL,, ,,26/06/2020
+2,,1563,PHENOTYPE,cancer_groups_renal_Total,NULL,, ,,26/06/2020
+2,,1564,,cancer_symptoms_Test_Scrotum_Mass,NULL,Case Finding,Dichotomous,,29/06/2020
+2,,1565,,cancer_symptoms_NonCardiac_Chest_Pain,NULL,, ,,29/06/2020
+2,,1566,,cancer_symptoms_UrinaryUrgency,NULL,, ,,29/06/2020
+2,,1567,,cancer_symptoms_UrinaryFrequency,NULL,, ,,29/06/2020
+2,,1568,,cancer_symptoms_Nocturia,NULL,, ,,29/06/2020
+2,,1569,,cancer_symptoms_Retention,NULL,, ,,29/06/2020
+2,,1570,PHENOTYPE,cancer_groups_T0_pTis_InSitu,NULL,, ,,29/06/2020
+2,,1571,,cancer_symptoms_ChangeBowelHabit,NULL,, ,,29/06/2020
+2,,1572,PHENOTYPE,cancer_groups_FIGO_Stage4,NULL,, ,,29/06/2020
+2,,1573,PHENOTYPE,cancer_groups_FIGO_Stage3,NULL,, ,,29/06/2020
+2,,1574,PHENOTYPE,cancer_groups_FIGO_Stage2,NULL,, ,,29/06/2020
+2,,1575,PHENOTYPE,cancer_groups_FIGO_Stage1,NULL,, ,,29/06/2020
+2,,1576,PHENOTYPE,cancer_groups__Stage_M1,NULL,, ,,29/06/2020
+2,,1577,PHENOTYPE,cancer_groups__Stage_M0,NULL,, ,,29/06/2020
+2,,1578,PHENOTYPE,cancer_groups__Stage_T4,NULL,, ,,29/06/2020
+2,,1579,PHENOTYPE,cancer_groups__Stage_T3,NULL,, ,,29/06/2020
+2,,1580,PHENOTYPE,cancer_groups__Stage_T2,NULL,, ,,29/06/2020
+2,,1581,PHENOTYPE,cancer_groups__Stage_T1,NULL,, ,,29/06/2020
+2,,1582,PHENOTYPE,cancer_groups__Stage_N4,NULL,, ,,29/06/2020
+2,,1583,PHENOTYPE,cancer_groups__Stage_N3,NULL,, ,,29/06/2020
+2,,1584,PHENOTYPE,cancer_groups__Stage_N2,NULL,, ,,29/06/2020
+2,,1585,PHENOTYPE,cancer_groups__Stage_N1,NULL,, ,,29/06/2020
+2,,1586,PHENOTYPE,cancer_groups__Stage_N0,NULL,, ,,29/06/2020
+2,,1587,PHENOTYPE,cancer_groups__Dukes_A,NULL,, ,,29/06/2020
+2,,1588,PHENOTYPE,cancer_groups__Dukes_B,NULL,, ,,29/06/2020
+2,,1589,PHENOTYPE,cancer_groups__Dukes_C,NULL,, ,,29/06/2020
+2,,1590,PHENOTYPE,cancer_groups__Dukes_D,NULL,, ,,29/06/2020
+2,,1591,PHENOTYPE,cancer_groups_breast_InSitu,NULL,, ,,29/06/2020
+2,,1592,PHENOTYPE,cancer_groups_breast_Total,NULL,, ,,29/06/2020
+2,,1593,PHENOTYPE,cancer_groups_lung_InSitu,NULL,, ,,29/06/2020
+2,,1594,PHENOTYPE,cancer_groups_lung_Total,NULL,, ,,29/06/2020
+2,,1595,PHENOTYPE,cancer_symptoms_breast_SkinNippleChanges,NULL,, ,,01/07/2020
+2,,1596,,cancer_symptoms_breast_Pain,NULL,, ,,01/07/2020
+2,,1597,PHENOTYPE,cancer_symptoms_UrinaryTractInfection,NULL,, ,,01/07/2020
+2,,1598,PHENOTYPE,cancer_groups_anal_Total,NULL,, ,,01/07/2020
+2,,1599,PHENOTYPE,cancer_groups_Bone_Total,NULL,, ,,01/07/2020
+2,,1600,PHENOTYPE,cancer_groups_penis_total,NULL,, ,,01/07/2020
+2,,1601,PHENOTYPE,cancer_groups_hepato_InSitu,NULL,, ,,01/07/2020
+2,,1602,PHENOTYPE,cancer_groups_hepato_Total,NULL,, ,,01/07/2020
+2,,1603,PHENOTYPE,cancer_groups__Leukaemia_Other,NULL,, ,,01/07/2020
+2,,1604,PHENOTYPE,cancer_groups__Leukaemia_Total_Overarching,NULL,, ,,02/09/2020
+2,,1605,PHENOTYPE,cancer_groups__Leukaemia_CLL,NULL,, ,,01/07/2020
+2,,1606,PHENOTYPE,cancer_groups__Leukaemia_CML,NULL,, ,,01/07/2020
+2,,1607,PHENOTYPE,cancer_groups__Leukaemia_ALL,NULL,, ,,01/07/2020
+2,,1608,PHENOTYPE,cancer_groups__Leukaemia_AML,NULL,, ,,01/07/2020
+2,,1609,PHENOTYPE,cancer_groups_NonHodgkinsLymphoma,NULL,, ,,02/09/2020
+2,,1610,PHENOTYPE,cancer_groups_HodgkinsLymphoma,NULL,, ,,02/09/2020
+2,,1611,PHENOTYPE,cancer_groups_SpermaticCord_Total,NULL,, ,,01/07/2020
+2,,1612,PHENOTYPE,cancer_groups_testicular_InSitu,NULL,, ,,01/07/2020
+2,,1613,PHENOTYPE,cancer_groups_testicular_Total,NULL,, ,,01/07/2020
+2,G,1614,,diagnosis_basedonDeathCert_Autopsy,NULL,, ,,01/07/2020
+2,,1615,,referrals_2ww_AllCancers_seen,NULL,, ,,01/07/2020
+2,,1616,,referrals_2ww_Urological_seen,NULL,, ,,01/07/2020
+2,,1617,,referrals_2ww_UpperGI_seen,NULL,, ,,01/07/2020
+2,,1618,,referrals_2ww_Skin_seen,NULL,, ,,01/07/2020
+2,,1619,,referrals_2ww_Sarcoma_seen,NULL,, ,,01/07/2020
+2,,1620,,referrals_2ww_Lung_seen,NULL,, ,,01/07/2020
+2,,1621,,referrals_2ww_HaemMalig_seen,NULL,, ,,01/07/2020
+2,,1622,,referrals_2ww_Gynae_seen,NULL,, ,,01/07/2020
+2,,1623,,referrals_2ww_ColoRectal_seen,NULL,, ,,01/07/2020
+2,,1624,,referrals_2ww_Breast_seen,NULL,, ,,01/07/2020
+2,,1625,,referrals_2ww_BrainCancer_seen,NULL,, ,,01/07/2020
+2,,1626,,referrals_2ww_HeadNeck_seen,NULL,, ,,01/07/2020
+2,,1627,PHENOTYPE,cancer_groups_gallbladder_InSitu,NULL,, ,,01/07/2020
+2,,1628,PHENOTYPE,cancer_groups_gallbladder_Total,NULL,, ,,01/07/2020
+2,,1629,PHENOTYPE,cancer_groups_peritoneum_Total,NULL,, ,,06/07/2020
+2,G,2001,PHENOTYPE,CysticFibrosis,CysticFibrosis,Case finding,Dichotomous,,29/09/2020
+7,G,2001,PHENOTYPE,CysticFibrosis,CysticFibrosis,Case finding,Dichotomous,,29/09/2020
+7,G,2002,PHENOTYPE,Dementia,Dementia,Case finding,Dichotomous,Inclusive of all forms of dementia,01/10/2020
+1,,2008,PHENOTYPE,HaemorrhagicStroke,HaemorrhagicStroke,Case finding,Dichotomous,Excludes intracranial haemorrhage explicitly trauma related,17/09/2020
+2,G,2008,,HaemorrhagicStroke,HaemorrhagicStroke,Case finding,Dichotomous,Excludes intracranial haemorrhage explicitly trauma related,17/09/2020
+7,G,2008,PHENOTYPE,HaemorrhagicStroke,HaemorrhagicStroke,Case finding,Dichotomous,Excludes intracranial haemorrhage explicitly trauma related,17/09/2020
+1,,2010,PHENOTYPE,Hypertension,NULL,, ,,16/06/2020
+1,,2011,PHENOTYPE,IschaemicStroke,IschaemicStroke,, ,,16/06/2020
+2,G,2011,,IschaemicStroke,IschaemicStroke,, ,,16/06/2020
+7,G,2011,PHENOTYPE,IschaemicStroke,IschaemicStroke,, ,,16/06/2020
+1,,2018,PHENOTYPE,MyocardialInfarction,AcuteMyocardialInfarction,Case finding,Dichotomous,Strong evidence of myocardial infarct ever - not just acute,08/07/2020
+2,G,2018,,MyocardialInfarction,AcuteMyocardialInfarction,Case finding,Dichotomous,Strong evidence of myocardial infarct ever - not just acute,08/07/2020
+7,G,2018,PHENOTYPE,MyocardialInfarction,AcuteMyocardialInfarction,Case finding,Dichotomous,Strong evidence of myocardial infarct ever - not just acute,08/07/2020
+7,A,2019,PHENOTYPE,AcutePancreatitis,AcutePancreatitis,Case finding,Dichotomous,,13/10/2020
+1,,2021,PHENOTYPE,Angina,NULL,, ,,17/06/2020
+1,,2025,PHENOTYPE,AtrialFibrillation,NULL,, ,,25/06/2020
+7,G,2028,PHENOTYPE,ChronicLiverDisease,NULL,Case finding,Dichotomous,,12/03/2021
+7,A,2029,PHENOTYPE,ChronicPancreatitis,ChronicPancreatitis,Case finding,Dichotomous,,13/10/2020
+7,G,2030,PHENOTYPE,CoeliacDisease,NULL,Case Finding,Dichotomous,,18/05/2021
+1,,2031,PHENOTYPE,CongestiveCardiacFailure,NULL,, ,,16/06/2020
+4,G,2032,PHENOTYPE,MultipleSclerosis,NULL,Case Finding,Dichotomous,,27/04/2021
+1,,2041,PHENOTYPE,RheumatoidArthritis,NULL,, ,,17/06/2020
+1,,2044,PHENOTYPE,TIA,TIA,, ,,16/06/2020
+7,G,2044,PHENOTYPE,TIA,TIA,, ,,16/06/2020
+1,,2045,PHENOTYPE,UnstableAngina,NULL,, ,,17/06/2020
+1,,2046,INVESTGATION,Random Blood Glucose,NULL,, ,,19/06/2020
+1,,2047,PHENOTYPE,Diabetes T1,NULL,, ,,18/06/2020
+1,,2048,PHENOTYPE,Diabetes T2,NULL,, ,,18/06/2020
+1,,2049,INVESTGATION,Fasting Blood Glucose,NULL,, ,,19/06/2020
+1,,2050,INVESTGATION,HbA1c,NULL,, ,,17/06/2020
+1,,2051,EXPOSURE,Blood Pressure - Both,NULL,, ,,16/06/2020
+1,,2052,EXPOSURE,Blood Pressure - Diastolic,NULL,, ,,16/06/2020
+1,,2053,EXPOSURE,Blood Pressure - Systolic,NULL,, ,,16/06/2020
+1,,2054,INVESTGATION,HDL cholesterol,NULL,, ,,17/06/2020
+1,,2055,INVESTGATION,LDL cholesterol,NULL,, ,,17/06/2020
+1,,2056,INVESTGATION,Total cholesterol,NULL,, ,,17/06/2020
+1,,2064,PHENOTYPE,AsthmaDiagnosis,NULL,, ,,16/06/2020
+1,,2065,EXPOSURE,ActiveSmoker,NULL,, ,,25/06/2020
+1,,2066,EXPOSURE,Ex-smoker,NULL,, ,,16/06/2020
+1,,2067,EXPOSURE,Non-Smoker,NULL,, ,,16/06/2020
+3,G,2070,PHENOTYPE,DomesticViolence,NULL,Case finding,Dichotomous,,15/09/2020
+1,,2126,,COPDProcessOfCare,NULL,, ,,16/06/2020
+1,,2133,PHENOTYPE,COPD,COPDDiagnosis,, ,,16/06/2020
+7,G,2133,PHENOTYPE,COPD,COPDDiagnosis,, ,,16/06/2020
+7,A,2140,PHENOTYPE,PregOntPregnant,PregOntPregnant,NULL,NULL,NULL,NULL
+7,G,2142,PHENOTYPE,PregOntLMP,NULL,Case finding,Dichotomous,Pregnancy sliding window variable,07/06/2021
+7,A,2143,PHENOTYPE,PregOntTimed,PregOntTimed,Case finding,Dichotomous,Curated specifically for pregnancy ontology,16/10/2020
+1,,2144,INVESTGATION,ACR,NULL,, ,,16/06/2020
+1,,2147,PHENOTYPE,Chronic Kidney Disease - Stages 3 to 5,NULL,, ,,16/06/2020
+1,,2148,INVESTGATION,Creatinine,NULL,Investigation,Numeric,Includes observable entity concepts only,25/06/2020
+1,,2149,INVESTGATION,PCR,NULL,, ,,16/06/2020
+1,G,2150,PHENOTYPE,Epilepsy,NULL,Case Finding,Dichotomous,,20/01/2021
+2,,3000,,cancer_2ww_referrals_,NULL,, ,,24/06/2020
+2,,3001,,cancer_symptoms_apetite_loss,NULL,, ,,22/06/2020
+2,,3008,,cancer_symptoms_clubbing,NULL,, ,,22/06/2020
+2,,3009,,cancer_symptoms_constipation,NULL,, ,,22/06/2020
+2,,3010,,cancer_symptoms_cough,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,,3011,PHENOTYPE,cancer_symptoms_diarrhea,NULL,, ,,01/07/2020
+2,,3012,,cancer_symptoms_distension,NULL,, ,,29/06/2020
+2,,3015,,cancer_symptoms_dysphagia,NULL,, ,,22/06/2020
+2,,3016,,cancer_symptoms_dysuria ,NULL,, ,,29/06/2020
+2,,3017,,cancer_symptoms_fatigue,NULL,, ,,22/06/2020
+2,,3019,,FindingOfHaematuria,cancer_symptoms_haematuria,Case Finding,Dichotomous,This EXCLUDES microscopic and frank heaematuria.  To include ALL haematuria combine with 4874 FindingOfMicroscopicHaematuria and 5023 FindingOfFrankHaematuria,22/06/2020
+2,,3020,,cancer_symptoms_hoarse,NULL,, ,,22/06/2020
+2,,3021,,cancer_symptoms_ida,NULL,, ,,29/06/2020
+2,,3022,,cancer_symptoms_infectrecur,NULL,, ,,29/06/2020
+2,,3023,,cancer_symptoms_jaundice,NULL,Case Finding,Dichotomous,,08/04/2021
+2,,3024,,cancer_symptoms_lumpbreast,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,,3026,,cancer_symptoms_lymphaden,NULL,, ,,22/06/2020
+2,,3027,,cancer_symptoms_lymphaneck,NULL,, ,,25/06/2020
+2,,3028,,cancer_symptoms_massabdo,NULL,, ,,22/06/2020
+2,,3032,,cancer_symptoms_nausea,NULL,, ,,25/06/2020
+2,,3034,,cancer_symptoms_painabdom,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,,3035,,cancer_symptoms_painback,NULL,, ,,29/06/2020
+2,,3036,,cancer_symptoms_painbone,NULL,, ,,22/06/2020
+2,,3038,,cancer_symptoms_painupabdo,NULL,, ,,22/06/2020
+2,,3040,,cancer_symptoms_reflux,NULL,, ,,22/06/2020
+2,,3041,,cancer_symptoms_sob,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,,3042,,cancer_symptoms_splenomegaly,NULL,, ,,24/06/2020
+2,,3045,,cancer_symptoms_weight_loss,NULL,, ,,24/06/2020
+2,,3046,,cancer_tests_brain_MRI,NULL,, ,,09/07/2020
+2,,3047,,cancer_tests_ca125,NULL,, ,,24/06/2020
+2,,3048,,cancer_tests_chest_xray,NULL,Case Finding,Dichotomous,,11/04/2021
+2,,3049,,cancer_tests_colonoscopy,NULL,, ,,08/07/2020
+2,,3051,,cancer_tests_CTPelvis,NULL,, ,,06/07/2020
+2,,3057,,cancer_tests_PSA,NULL,, ,,09/07/2020
+2,,3058,PHENOTYPE,cancer_tests_serumprotein_electro,NULL,, ,,06/07/2020
+2,,3059,,cancer_tests_USSabdo,NULL,, ,,09/07/2020
+2,,3061,PHENOTYPE,cancer_groups_oesophagus,NULL,, ,,22/06/2020
+2,,3062,PHENOTYPE,cancer_groups_stomach,NULL,, ,,22/06/2020
+2,,3064,PHENOTYPE,cancer_groups_colon,NULL,, ,,22/06/2020
+2,,3065,,cancer_groups_rectum,NULL,, ,,09/07/2020
+2,,3066,PHENOTYPE,cancer_groups_anal,NULL,, ,,01/07/2020
+2,,3067,PHENOTYPE,cancer_groups_hepato,NULL,, ,,01/07/2020
+2,,3068,PHENOTYPE,cancer_groups_gallbladder,NULL,, ,,01/07/2020
+2,,3070,PHENOTYPE,cancer_groups_pancreas,NULL,, ,,22/06/2020
+2,,3071,PHENOTYPE,cancer_groups_peritoneum,NULL,, ,,06/07/2020
+2,,3072,PHENOTYPE,cancer_groups_lung,NULL,, ,,29/06/2020
+2,,3075,PHENOTYPE,cancer_groups_osteo,NULL,, ,,01/07/2020
+2,,3076,PHENOTYPE,cancer_groups_melanoma,NULL,, ,,22/06/2020
+2,,3078,PHENOTYPE,cancer_groups_breast,NULL,, ,,29/06/2020
+2,,3079,PHENOTYPE,cancer_groups_vulval,NULL,, ,,24/06/2020
+2,,3080,,cancer_groups_cervical,NULL,, ,,22/06/2020
+2,,3081,PHENOTYPE,cancer_groups_endometrial,NULL,, ,,25/06/2020
+2,,3082,PHENOTYPE,cancer_groups_ovarian,NULL,, ,,24/06/2020
+2,,3083,PHENOTYPE,cancer_groups_choriocarcinoma,NULL,, ,,24/06/2020
+2,,3084,PHENOTYPE,cancer_groups_penis,NULL,, ,,01/07/2020
+2,,3086,PHENOTYPE,cancer_groups_testicular,NULL,, ,,01/07/2020
+2,,3087,PHENOTYPE,cancer_groups_spermatic cord,NULL,, ,,01/07/2020
+2,,3088,PHENOTYPE,cancer_groups_renal,NULL,, ,,26/06/2020
+2,,3089,PHENOTYPE,cancer_groups_bladder,NULL,, ,,24/06/2020
+2,,3090,PHENOTYPE,cancer_groups_eye,NULL,, ,,07/07/2020
+2,,3095,PHENOTYPE,cancer_groups_secondary_malignancy,NULL,, ,,22/06/2020
+2,,3098,PHENOTYPE,cancer_groups_myeloma,NULL,, ,,02/09/2020
+7,G,3109,PHENOTYPE,Bronchiolitis,Bronchiolitis,Case finding,Dichotomous,,26/09/2020
+7,G,3111,PHENOTYPE,ScarletFever,ScarletFever,Case finding,Dichotomous,,26/09/2020
+1,,3160,PHENOTYPE,IschaemicHeartDisease,IschemicHeartDiseaseJS,, ,,08/07/2020
+2,,4002,,cancer_tests_CTHead,NULL,, ,,07/07/2020
+2,,4004,,cancer_tests_CT_abdo,NULL,, ,,06/07/2020
+2,,4005,,cancer_tests_CTscan_AllSites,NULL,, ,,06/07/2020
+2,,4006,,cancer_tests_CT_chest,NULL,, ,,06/07/2020
+2,,4007,PHENOTYPE,cancer_groups_CNSwho_meningioma_all,NULL,, ,,07/07/2020
+2,,4008,PHENOTYPE,cancer_groups_CNSwho_meningioma_I,NULL,, ,,07/07/2020
+2,,4009,PHENOTYPE,cancer_groups_CNSwho_meningioma_II,NULL,, ,,07/07/2020
+2,,4010,PHENOTYPE,cancer_groups_CNSwho_meningioma_III,NULL,, ,,07/07/2020
+2,,4011,PHENOTYPE,cancer_groups_CNSwho_AstrocyticOligodendroglial,NULL,, ,,07/07/2020
+2,,4012,PHENOTYPE,cancer_groups_CNSwho_Embryonal,NULL,, ,,07/07/2020
+2,,4013,PHENOTYPE,cancer_groups_CNSwho_TumoursSpinalParaspinalNerves,NULL,, ,,07/07/2020
+2,,4014,PHENOTYPE,cancer_groups_CNSwho_Pineal,NULL,, ,,07/07/2020
+2,,4015,PHENOTYPE,cancer_groups_CNSwho_Ependymoma,NULL,, ,,07/07/2020
+2,,4016,PHENOTYPE,cancer_groups_CNSwho_ChoroidPlexus,NULL,, ,,07/07/2020
+2,,4017,PHENOTYPE,cancer_groups_CNSwho_mesenchymal,NULL,Case finding,Dichotomous,,16/09/2020
+2,,4018,PHENOTYPE,cancer_groups_CNSwho_SellarRegion,NULL,, ,,07/07/2020
+2,,4019,PHENOTYPE,cancer_groups_CNSwho_Neuronal_MixedNeuronalGlial,NULL,, ,,07/07/2020
+2,,4020,PHENOTYPE,cancer_groups_EyeAndOrbit_total,NULL,, ,,06/07/2020
+2,,4022,,cancer_tests_SerumLDH,NULL,, ,,06/07/2020
+2,,4023,,cancer_tests_brain_MRIJS_normal,NULL,, ,,09/07/2020
+2,,4024,,cancer_tests_brain_MRIJS_abnormal,NULL,, ,,09/07/2020
+2,,4025,,cancer_tests_CT_resultAbnormal,NULL,, ,,09/07/2020
+2,,4026,,cancer_tests_CT_resultNormal,NULL,, ,,09/07/2020
+2,,4027,,cancer_tests_chest_xrayJS_normal,NULL,Case Finding,Dichotomous,,11/04/2021
+2,,4028,,cancer_tests_chest_xrayJS_abnormal,NULL,Case Finding,Dichotomous,,11/04/2021
+2,,4029,,cancer_tests_PSAJS_result_Abormal,NULL,, ,,09/07/2020
+2,,4030,,cancer_tests_PSAJS_result_Normal,NULL,, ,,09/07/2020
+2,,4031,,cancer_tests_PSAJS_result_ObEntity,NULL,, ,,09/07/2020
+2,,4032,,cancer_tests_ca125JS_procedure,NULL,, ,,09/07/2020
+2,,4033,,cancer_tests_serumprotein_electroJS_procedure,NULL,, ,,09/07/2020
+2,,4034,,cancer_tests_USSabdoJS_Abnormal,NULL,, ,,09/07/2020
+2,,4035,,cancer_tests_USSabdoJS_Normal,NULL,, ,,09/07/2020
+2,,4036,,cancer_tests_USSpelvis,NULL,, ,,09/07/2020
+2,,4037,,cancer_tests_mammogram,NULL,, ,,09/07/2020
+2,,4038,,cancer_tests_mammogram_result_Normal,NULL,, ,,09/07/2020
+2,,4039,,cancer_tests_mammogram_result_Abnormal,NULL,, ,,09/07/2020
+2,,4040,,cancer_groups_stage_WHOcns_I,NULL,, ,,09/07/2020
+2,,4041,,cancer_groups_stage_WHOcns_II,NULL,, ,,09/07/2020
+2,,4042,,cancer_groups_stage_WHOcns_III,NULL,, ,,09/07/2020
+2,,4043,,cancer_groups_stage_WHOcns_IV,NULL,, ,,09/07/2020
+2,,4044,,cancer_groups_stage_TNM_ObEntity,NULL,, ,,09/07/2020
+2,,4045,,cancer_groups_Small_Intestine_primary,NULL,, ,,09/07/2020
+2,,4046,,cancer_groups_Small_Intestine_total,NULL,, ,,09/07/2020
+2,,4047,,cancer_groups_rectumJS_total,NULL,, ,,09/07/2020
+2,,4048,,cancer_groups_rectum_InSitu,NULL,, ,,09/07/2020
+2,,4049,,cancer_tests_WhiteCellCount_procedure,NULL,, ,,09/07/2020
+2,,4050,,cancer_tests_WhiteCellCount_ObEntity,NULL,, ,,09/07/2020
+2,,4051,,cancer_tests_LymphocyteCount_procedure,NULL,, ,,09/07/2020
+2,,4052,,cancer_tests_lymphocyteCount_ObEntity,NULL,, ,,09/07/2020
+2,,4053,,cancer_tests_platelets_procedure,NULL,, ,,09/07/2020
+2,,4054,,cancer_tests_platelets_ObEntity,NULL,, ,,09/07/2020
+2,,4055,,cancer_tests_CRP_procedure,NULL,, ,,09/07/2020
+2,,4056,,cancer_tests_CRP_ObEntity,NULL,, ,,08/07/2020
+2,,4057,,cancer_tests_ESR_procedure,NULL,, ,,08/07/2020
+2,,4058,,cancer_tests_ESR_ObEntity,NULL,, ,,08/07/2020
+2,,4059,,DiagnosisDeath_QualValue,NULL,, ,,09/07/2020
+2,,4060,,cancer_tests_colonoscopy_result_abnormal,NULL,, ,,08/07/2020
+2,,4061,,cancer_tests_colonoscopy_result_normal,NULL,, ,,08/07/2020
+2,,4062,,cancer_tests_sigmoidoscopy,NULL,, ,,08/07/2020
+2,,4063,,cancer_tests_sigmoidoscopy_result_abnormal,NULL,, ,,08/07/2020
+2,,4064,,cancer_tests_sigmoidoscopy_result_normal,NULL,, ,,08/07/2020
+2,,4123,,cancer_symptoms_MicroscopicHaematuria,NULL,, ,,15/07/2020
+2,,4124,,cancer_tests_haemoglobin_procedure,NULL,, ,,15/07/2020
+2,,4125,,cancer_tests_haemoglobin_ObEntity,NULL,, ,,15/07/2020
+2,,4126,,cancer_tests_MCV_procedure,NULL,, ,,15/07/2020
+2,,4127,,cancer_tests_MCV_ObEntity,NULL,, ,,15/07/2020
+2,,4128,,cancer_tests_MCH_procedure,NULL,, ,,14/07/2020
+2,,4129,,cancer_tests_MCH_ObEntity,NULL,, ,,14/07/2020
+2,,4130,,cancer_tests_VitD3_procedure,NULL,, ,,14/07/2020
+2,,4131,,cancer_tests_VitD3_ObEntity,NULL,, ,,14/07/2020
+2,,4132,,cancer_tests_oesophagogastroduodenoscopyOGD,NULL,, ,,14/07/2020
+2,,4133,,cancer_tests_OGD_result_normal,NULL,, ,,14/07/2020
+2,,4134,,cancer_tests_OGD_result_abnormal,NULL,, ,,14/07/2020
+2,,4135,,cancer_tests_cystoscopy_procedure,NULL,, ,,14/07/2020
+2,,4136,,cancer_tests_cystoscopy_result_normal,NULL,, ,,14/07/2020
+2,,4137,,cancer_tests_cystoscopy_result_abnormal,NULL,, ,,14/07/2020
+2,,4138,,cancer_screen_bowel_FOB_procedure,NULL,, ,,14/07/2020
+2,,4139,,cancer_screen_bowel_FOB_normal,NULL,, ,,14/07/2020
+2,,4140,,cancer_screen_bowel_FOB_abnormal,NULL,, ,,14/07/2020
+2,,4141,,cancer_screen_bowel_FOB_result_ObEntity,NULL,, ,,14/07/2020
+2,,4142,,cancer_tests_FOB_NonScreening_result_abnormal,NULL,, ,,14/07/2020
+2,,4143,,cancer_tests_FOB_NonScreening_result_normal,NULL,, ,,14/07/2020
+2,,4144,,cancer_tests_FOB_NonScreening_result_ObEntity,NULL,, ,,14/07/2020
+2,,4145,,cancer_tests_FOB_procedure_NonScreening,NULL,, ,,14/07/2020
+2,,4146,,cancer_screen_bowel_FIT_result_ObEntity,NULL,, ,,14/07/2020
+2,,4152,,cancer_screen_bowel_FIT_normal,NULL,, ,,14/07/2020
+2,,4153,,cancer_screen_bowel_FIT_Abnormal,NULL,, ,,14/07/2020
+2,,4154,,cancer_screen_bowel_sigmoidoscopy_procedure,NULL,, ,,14/07/2020
+2,,4155,,cancer_screen_bowel_DNA_DidNotRespond,NULL,, ,,14/07/2020
+2,,4158,,cancer_screen_bowel_sigmoidoscopy_FurtherInvest,NULL,, ,,14/07/2020
+2,,4159,,cancer_screen_bowel_sigmoidoscopy_cancer_detected,NULL,, ,,14/07/2020
+2,,4160,,cancer_screen_bowel_sigmoidoscopy_normal,NULL,, ,,14/07/2020
+2,,4161,,cancer_diagnosis_BowelCancer_screening,NULL,, ,,14/07/2020
+2,,4162,,cancer_diagnosis_BreastCancer_screening,NULL,, ,,14/07/2020
+2,,4163,,cancer_screen_breast_MRI_procedure,NULL,, ,,14/07/2020
+2,,4164,,cancer_screen_breast_mammogram_procedure,NULL,, ,,14/07/2020
+2,,4165,,cancer_screen_breast_result_abnormal,NULL,, ,,14/07/2020
+2,,4166,,cancer_screen_breast_result_normal,NULL,, ,,14/07/2020
+2,,4167,,cancer_screen_breast_DNA_DidNotRespond,NULL,, ,,14/07/2020
+2,,4168,,cancer_tests_HPVTest_procedure,NULL,, ,,14/07/2020
+2,,4169,,cancer_tests_HPVTest_result_ObEntity,NULL,, ,,14/07/2020
+2,,4170,,cancer_tests_HPVTest_result_positive,NULL,, ,,14/07/2020
+2,,4171,,cancer_tests_HPVTest_result_negative,NULL,, ,,14/07/2020
+2,,4172,,cancer_tests_PapSmear_procedure,NULL,, ,,14/07/2020
+2,,4173,,cancer_tests_PapSmear_result_ObEntity,NULL,, ,,14/07/2020
+2,,4174,,cancer_tests_PapSmear_result_normal,NULL,, ,,14/07/2020
+2,,4175,,cancer_tests_PapSmear_result_abnormal,NULL,, ,,14/07/2020
+2,,4176,,cancer_tests_colposcopy_procedure,NULL,, ,,14/07/2020
+2,,4177,,cancer_tests_colposcopy_abnormal,NULL,, ,,14/07/2020
+2,,4178,,cancer_tests_colposcopy_normal,NULL,, ,,14/07/2020
+3,G,4179,PHENOTYPE,AcutePolymorphicPsychoticDisWoSympOfSchizophrenia,NULL,Case finding,Dichotomous,,18/09/2020
+7,G,4180,EXPOSURE,InfluenzaVaccinesPrescribableWithinGPQOF,InfluenzaVaccinesPrescribableWithinGPQOF,Drug Vaccination,Dichotomous,dm+d codes. Taken from QOF RefsetID 12465201000001105,06/08/2020
+7,G,4182,EXPOSURE,InfluenzaVaccinationAdministeredByThirdParty,Influenza vaccination administered by third party,Vaccination,Dichotomous,Administration codes,12/08/2020
+7,G,4183,EXPOSURE,InfluenzaVaccinationAdministered,Influenza vaccination administered,Vaccination,Dichotomous,Administration codes,12/08/2020
+7,G,4186,EXPOSURE,FluVac20QIVeSanofiPasteur,Flu vac 20: QIVe: Sanofi Pasteur,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4187,EXPOSURE,FluVac20LAIVAstraZeneca-FluenzTetra,Flu vac 20: LAIV: AstraZeneca - Fluenz Tetra,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4188,EXPOSURE,FluVac20QIVeGSK-FluarixTetra,Flu vac 20: QIVe: GSK - Fluarix Tetra,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4189,EXPOSURE,FluVac20QIVeMylan-InfluenzaVaccTetraMYL,Flu vac 20: QIVe: Mylan - Influenza Vacc Tetra MYL,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4190,EXPOSURE,FluVac20QIVeMylan-InfluvacSub-unit,Flu vac 20: QIVe: Mylan - Influvac sub-unit,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4191,EXPOSURE,FluVac20QIVcSeqirus-FlucelvaxTetra,Flu vac 20: QIVc: Seqirus - Flucelvax Tetra,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4192,EXPOSURE,FluVac20ATIVSeqirus-Fluad,Flu vac 20: aTIV: Seqirus - Fluad,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4193,EXPOSURE,FluVac20TIV-HDSanofiPasteur,Flu vac 20: TIV-HD: Sanofi Pasteur,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4194,EXPOSURE,FluVac20QIVeMASTA,Flu vac 20: QIVe: MASTA,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4198,EXPOSURE,FluVac20-aTIVGeneric,Flu vac 20: aTIV: Generic,Drug Vaccination,Dichotomous,dm+d codes,12/08/2020
+7,G,4202,OUTCOME,InfluenzaVaccinationDeclined,Influenza vaccination declined,Vaccination,Dichotomous,Admin codes,12/08/2020
+7,G,4203,OUTCOME,InfluenzaVaccinationDNA,Influenza vaccination DNA,Vaccination,Dichotomous,Admin codes,12/08/2020
+2,G,4204,PHENOTYPE,AsthmaExacerbation,NULL,Case finding,Dichotomous,,02/09/2020
+1,G,4204,OUTCOME,AsthmaExacerbation,NULL,Case finding,Dichotomous,,02/09/2020
+2,G,4208,PHENOTYPE,AsthmaReview,NULL,Case finding,Dichotomous,,02/09/2020
+1,G,4208,EXPOSURE,AsthmaReview,NULL,Case finding,Dichotomous,,02/09/2020
+2,G,4209,PHENOTYPE,AsthmaManagementPlan,NULL,Case finding,Dichotomous,,02/09/2020
+1,G,4209,EXPOSURE,AsthmaManagementPlan,NULL,Case finding,Dichotomous,,02/09/2020
+2,G,4210,PHENOTYPE,AsthmaManagementNoPlan,NULL,Case finding,Dichotomous,,02/09/2020
+1,G,4210,EXPOSURE,AsthmaManagementNoPlan,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4369,PHENOTYPE,VascularDementia,NULL,Case finding,Dichotomous,Includes vascular dementia with behavioural disturbance. Includes vascular dementia without behavioural disturbance ,02/09/2020
+3,G,4370,PHENOTYPE,DementiaDueToPicksDisease,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4371,PHENOTYPE,DementiaDueToCreutzfeldtJakobDisease,NULL,Case finding,Dichotomous,Include cerebral degeneration due to CJD (disorder) ,02/09/2020
+3,G,4372,PHENOTYPE,DementiaDueToHuntingtonChorea,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4373,PHENOTYPE,DementiaDueToParkinsonsDisease,NULL,Case finding,Dichotomous,Include cerebral degeneration due to Parkinson’s Disease (disorder) ,02/09/2020
+3,G,4374,PHENOTYPE,DementiaAssociatedWithAIDS,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4375,PHENOTYPE,OrganicHallucinosis,NULL,Case finding,Dichotomous,"Exclude alcohol hallucinosis (disorder) ; Exclude psychoactive substance-induced organic hallucinosis ; Exclude hallucinogen hallucinosis ; Exclude sedative, hypnotic and/or anxiolytic-induced psychotic disorder with hallucinations ",02/09/2020
+3,G,4376,PHENOTYPE,OrganicCatatonicDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4377,PHENOTYPE,OrganicDelusionalDisorder,NULL,Case finding,Dichotomous,"Exclude sedative, hypnotic and/or anxiolytic-induced psychotic disorder with delusions ; Exclude psychoactive substance-induced organic delusional disorder ;  Exclude other alcohol and drug induced psychotic disorder ",02/09/2020
+3,G,4378,PHENOTYPE,OrganicMoodDisorder,NULL,Case finding,Dichotomous,Exclude mood disorders due to alcohol and other psychoactive substances ,02/09/2020
+3,G,4379,PHENOTYPE,OrganicAnxietyDisorder,NULL,Case finding,Dichotomous,Excluse anxiety disorders due to alcohol and other psychoactive substances ,02/09/2020
+3,G,4380,PHENOTYPE,OrganicDissociativeDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4381,PHENOTYPE,OrganicEmotionallyLabileDisorder,NULL,Case finding,Dichotomous,Includes Obsessive-compulsive and related disorder due to a known physiological condition ;  Includes Epileptic psychosis NOS,02/09/2020
+3,G,4382,PHENOTYPE,OrganicPersonalityDisorder,NULL,Case finding,Dichotomous,Exclude psychoactive substance-induced organic personality disorder ,02/09/2020
+3,G,4383,PHENOTYPE,PostencephaliticMyoclonus,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4384,PHENOTYPE,PostconcussionSyndrome,NULL,Case finding,Dichotomous,Include post-traumatic dementia ;  Include punch drunk syndrome ; Exclude postconcussion state (finding). Include Organic psychosyndrome,02/09/2020
+3,G,4385,PHENOTYPE,AlcoholIntoxication,NULL,Case finding,Dichotomous,Include ketoacidosis due to acute alcohol intoxication (disorder) ; Include pathological alcohol intoxication (disorder) ; Include chronic pancreatitis due to acute alcohol intoxication (disorder) ,02/09/2020
+3,G,4386,PHENOTYPE,OpioidIntoxication,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4387,PHENOTYPE,CannabisIntoxication,NULL,Case finding,Dichotomous,Exclude intentional cannabis poisoning (disorder) ,02/09/2020
+3,G,4388,PHENOTYPE,HypnoticIntoxication,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4389,PHENOTYPE,CocaineIntoxication,NULL,Case finding,Dichotomous,Include cocaine delirium (disorder) ,02/09/2020
+3,G,4390,PHENOTYPE,StimulantIntoxication,NULL,Case finding,Dichotomous,Include acute stimulant intoxication (disorder) ,02/09/2020
+3,G,4391,PHENOTYPE,HallucinogenIntoxication,NULL,Case finding,Dichotomous,Include hallucinogen intoxication delirium (disorder) ,02/09/2020
+3,G,4392,PHENOTYPE,HarmfulUseOfAlcohol,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4393,PHENOTYPE,HarmfulUseOfOpioid,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4394,PHENOTYPE,HarmfulUseOfCannabis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4395,PHENOTYPE,HarmfulUseOfSyntheticCannabinoid,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4396,PHENOTYPE,HarmfulUseOfHypnotic,NULL,Case finding,Dichotomous,Added concepts for sedatives and anxiolytics– all grouped in SNOMED CT  ,02/09/2020
+3,G,4397,PHENOTYPE,HarmfulUseOfCocaine,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4398,PHENOTYPE,HarmfulUseOfHallucinogen,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4399,PHENOTYPE,ParanoidSchizophrenia,NULL,Case finding,Dichotomous,Includes Paraphrenic schizophrenia ,02/09/2020
+3,G,4400,PHENOTYPE,DisorganisedSchizophrenia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4401,PHENOTYPE,CatatonicSchizophrenia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4402,PHENOTYPE,UndifferentiatedSchizophrenia,NULL,Case finding,Dichotomous,Includes Atypical schizophrenia ,02/09/2020
+3,G,4403,PHENOTYPE,Post-schizophrenicDepression,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4404,PHENOTYPE,ResidualSchizophrenia,NULL,Case finding,Dichotomous,Includes Restzustand ,02/09/2020
+3,G,4405,PHENOTYPE,SimpleSchizophrenia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4406,PHENOTYPE,CoenesthopathicSchizophrenia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4407,PHENOTYPE,SchizotypalPersonalityDisorder,NULL,Case finding,Dichotomous,Include organic Pseudopsychopathic personality ; include schizophrenic prodrome ,02/09/2020
+3,G,4408,PHENOTYPE,DelusionalDisorder,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4409,PHENOTYPE,DelusionalDysmorphophobia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4410,PHENOTYPE,InvolutionalParanoidState,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4411,PHENOTYPE,ParanoiaQuerulans,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4412,PHENOTYPE,AcuteSchizophrenia-likePsychoticDisorder,NULL,Case finding,Dichotomous,Exclude psychotic disorder with schizophreniform symptoms caused by synthetic cathinone (disorder) ,02/09/2020
+3,G,4413,PHENOTYPE,SharedParanoidDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4414,PHENOTYPE,InducedPsychoticDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4415,PHENOTYPE,SchizoaffectiveDisorderManicType,NULL,Case finding,Dichotomous,Include schizoaffective schizophrenia ; Include cyclic schizophrenia ,02/09/2020
+3,G,4416,PHENOTYPE,SchizoaffectiveDisorderDepressiveType,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4417,PHENOTYPE,SchizoaffectiveDisorderMixedType,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4418,PHENOTYPE,Hypomania,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4419,PHENOTYPE,ManicDisorderSingleEpisode,NULL,Case finding,Dichotomous,"Excluding Single manic episode, severe, with psychosis and  Recurrent manic episodes, severe, with psychosis ",02/09/2020
+3,G,4420,PHENOTYPE,RecurrentManicEpisodes,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4421,PHENOTYPE,ManiaWithPsychoticFeatures,NULL,Case finding,Dichotomous,"Include Single manic episode, severe, with psychosis ",02/09/2020
+3,G,4422,PHENOTYPE,ManiaWithMood-congruentPsychoticFeatures,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4423,PHENOTYPE,ManiaWithMood-incongruentPsychoticFeatures,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4424,PHENOTYPE,BipolarIDisorderMostRecentEpisodeHypomanic,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4425,PHENOTYPE,BipolarAffectiveDisorderCurrentEpisodeManic,NULL,Case finding,Dichotomous,"Excluding Bipolar affective disorder, currently manic, severe, with psychosis ",02/09/2020
+3,G,4426,PHENOTYPE,BipolarAffectiveDisorderCurrentEpisodeDepression,NULL,Case finding,Dichotomous,Excluding Psychosis and severe depression co-occurrent and due to bipolar affective disorder ,02/09/2020
+3,G,4427,PHENOTYPE,BipolarAffectiveDisorderCurrentEpisodeMixed,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4428,PHENOTYPE,BipolarIIDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4429,PHENOTYPE,MildMajorDepressionSingleEpisode,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4430,PHENOTYPE,ModerateMajorDepressionSingleEpisode,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4431,PHENOTYPE,ModeratelySevereMajorDepressionSingleEpisode,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4432,PHENOTYPE,SingleMajorDepressiveEpisodeSevereWithPsychosis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4433,PHENOTYPE,MildRecurrentMajorDepression,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4434,PHENOTYPE,ModerateRecurrentMajorDepression,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4435,PHENOTYPE,Cyclothymia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4436,PHENOTYPE,Dysthymia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4437,PHENOTYPE,Agoraphobia,NULL,Case finding,Dichotomous,Include Panic disorder with agoraphobia ,02/09/2020
+3,G,4438,PHENOTYPE,SocialPhobia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4439,PHENOTYPE,Acrophobia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4440,PHENOTYPE,Zoophobia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4441,PHENOTYPE,Claustrophobia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4442,PHENOTYPE,SimplePhobia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4443,PHENOTYPE,PanicDisorder,NULL,Case finding,Dichotomous,Except Panic disorder with agoraphobia. Acute panic state due to acute stress reaction  ,02/09/2020
+3,G,4444,PHENOTYPE,GeneralisedAnxietyDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4445,PHENOTYPE,Obsessive-compulsiveDisorder,NULL,Case finding,Dichotomous,Exclude OCD caused by drugs ,02/09/2020
+3,G,4446,PHENOTYPE,AcuteStressDisorder,NULL,Case finding,Dichotomous,"Include psychogenic fugue co-occurrent and due to stress reaction (disorder),  Include stress reaction with psychomotor agitation (disorder)",02/09/2020
+3,G,4447,PHENOTYPE,PosttraumaticStressDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4448,PHENOTYPE,PsychogenicAmnesia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4449,PHENOTYPE,PsychogenicFugue,NULL,Case finding,Dichotomous,Exclude psychogenic fugue co-occurrent and due to stress reaction (disorder) ,02/09/2020
+3,G,4450,PHENOTYPE,DissociativeStupor,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4451,PHENOTYPE,DissociativeTrance,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4452,PHENOTYPE,DissociativeMotorDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4453,PHENOTYPE,DissociativeConvulsions,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4454,PHENOTYPE,DissociativeAnaesthesia,NULL,Case finding,Dichotomous,Include dissociative anaesthesia (finding). Exclude dissociative anaesthesia (procedure) ,02/09/2020
+3,G,4455,PHENOTYPE,PsychologicConversionDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4456,PHENOTYPE,GanserSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4457,PHENOTYPE,MultiplePersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4458,PHENOTYPE,BriquetsSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4459,PHENOTYPE,UndifferentiatedSomatoformDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4460,PHENOTYPE,BodyDysmorphicDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4461,PHENOTYPE,IllnessAnxietyDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4462,PHENOTYPE,CutaneousHypochondriasis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4463,PHENOTYPE,PsychogenicDyspepsia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4464,PHENOTYPE,NeurocirculatoryAsthenia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4465,PHENOTYPE,Psychalgia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4466,PHENOTYPE,Depersonalisation-derealisationSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4467,PHENOTYPE,Dhat,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4468,PHENOTYPE,PsychasthenicNeurosis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4469,PHENOTYPE,PsychogenicSyncope,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4470,PHENOTYPE,OccupationalNeurosis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4471,PHENOTYPE,AnorexiaNervosa,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4472,PHENOTYPE,AtypicalAnorexiaNervosa,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4473,PHENOTYPE,BulimiaNervosa,NULL,Case finding,Dichotomous,Excluding Atypical bulimia nervosa ,02/09/2020
+3,G,4474,PHENOTYPE,AtypicalBulimiaNervosa,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4475,PHENOTYPE,Pica,NULL,Case finding,Dichotomous,Excluding Pica of infancy and childhood ,02/09/2020
+3,G,4476,PHENOTYPE,NonorganicInsomnia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4477,PHENOTYPE,PrimaryHypersomnia,NULL,Case finding,Dichotomous,"Exclude autosomal dominant cerebellar ataxia, deafness and narcolepsy syndrome (disorder) ",02/09/2020
+3,G,4478,PHENOTYPE,Non-organicDisorderOfTheSleep-wakeSchedule,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4479,PHENOTYPE,SleepWalkingDisorder,NULL,Case finding,Dichotomous,Including finding related to sleep walking (finding) ,02/09/2020
+3,G,4480,PHENOTYPE,SleepTerrorDisorder,NULL,Case finding,Dichotomous,Exclude somnambulism co-occurrent with sleep terror disorder ,02/09/2020
+3,G,4481,PHENOTYPE,LackOrLossOfSexualDesire,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4482,PHENOTYPE,Anhedonia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4483,PHENOTYPE,FemaleSexualArousalDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4484,PHENOTYPE,PrimaryErectileDysfunction,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4485,PHENOTYPE,PsychogenicImpotence,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4486,PHENOTYPE,InhibitedFemaleOrgasm,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4487,PHENOTYPE,InhibitedMaleOrgasm,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4488,PHENOTYPE,LifelongGeneralisedAnorgasmia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4489,PHENOTYPE,LifelongSituationalAnorgasmia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4490,PHENOTYPE,LifelongGeneralisedEarlyEjaculation,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4491,PHENOTYPE,LifelongSituationalEarlyEjaculation,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4492,PHENOTYPE,PsychologicVaginismus,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4493,PHENOTYPE,PsychologicDyspareunia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4494,PHENOTYPE,ExcessiveSexualDrive,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4495,PHENOTYPE,PostpartumDepression,NULL,Case finding,Dichotomous,"Excluding Major depressive disorder, single episode with postpartum onset ",02/09/2020
+3,G,4496,PHENOTYPE,PostpartumPsychosis,NULL,Case finding,Dichotomous,Exclude H/O postpartum psychosis (situation) ,02/09/2020
+3,G,4497,PHENOTYPE,ParanoidPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4498,PHENOTYPE,SchizoidPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4499,PHENOTYPE,AntisocialPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4500,PHENOTYPE,EmotionallyUnstablePersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4501,PHENOTYPE,HistrionicPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4502,PHENOTYPE,ObsessiveCompulsivePersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4503,PHENOTYPE,AvoidantPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4504,PHENOTYPE,DependentPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4505,PHENOTYPE,EccentricPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4506,PHENOTYPE,ImmaturePersonalityDisorder,NULL,Case finding,Dichotomous,Excluding immature personality (finding) ,02/09/2020
+3,G,4507,PHENOTYPE,NarcissisticPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4508,PHENOTYPE,PassiveAggressivePersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4509,PHENOTYPE,PsychoneuroticPersonalityDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4510,PHENOTYPE,CompulsiveGambling,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4511,PHENOTYPE,Pyromania,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4512,PHENOTYPE,Kleptomania,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4513,PHENOTYPE,Trichotillomania,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4514,PHENOTYPE,MunchausensSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4515,PHENOTYPE,MildLearningDisability,NULL,Case finding,Dichotomous,Includes mild intellectual disability ,02/09/2020
+7,G,4516,ETHNICITY,EthnicityWhiteEnglishWelshScottishNIrishBritish,EthnicityWhiteEnglishWelshScottishNIrishBritish,Case finding,Dichotomous,,22/09/2020
+3,G,4517,PHENOTYPE,ModerateLearningDisability,NULL,Case finding,Dichotomous,Includes moderate intellectual disability ,02/09/2020
+7,G,4518,ETHNICITY,EthnicityWhiteIrish,EthnicityWhiteIrish,Case finding,Dichotomous,,22/09/2020
+3,G,4519,PHENOTYPE,SevereLearningDisability,NULL,Case finding,Dichotomous,Includes severe intellectual disability ,02/09/2020
+7,G,4520,ETHNICITY,EthnicityWhiteOther,EthnicityWhiteOther,Case finding,Dichotomous,,22/09/2020
+3,G,4521,PHENOTYPE,ProfoundLearningDisability,NULL,Case finding,Dichotomous,Includes profound intellectual disability ,02/09/2020
+7,G,4522,ETHNICITY,EthnicityBlackAfrican,EthnicityBlackAfrican,Case finding,Dichotomous,,22/09/2020
+3,G,4523,PHENOTYPE,DevelopmentalArticulationDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4524,PHENOTYPE,ExpressiveLanguageDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+7,G,4525,ETHNICITY,EthnicityBlackCaribbean,EthnicityBlackCaribbean,Case finding,Dichotomous,,22/09/2020
+3,G,4526,PHENOTYPE,ReceptiveLanguageDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+7,G,4527,ETHNICITY,EthnicityBlackOther,EthnicityBlackOther,Case finding,Dichotomous,,22/09/2020
+3,G,4528,PHENOTYPE,AcquiredEpilepticAphasia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4529,PHENOTYPE,Lisping,NULL,Case finding,Dichotomous,,22/09/2020
+3,G,4530,PHENOTYPE,SpecificReadingDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+7,R,4531,PHENOTYPE,FindingOfHomelessness,FindingOfHomelessness,Case finding,Dichotomous,,22/09/2020
+3,G,4532,PHENOTYPE,SpecificSpellingDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4533,PHENOTYPE,Dyscalculia,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4534,PHENOTYPE,Aphasia-angularGyrusSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4535,PHENOTYPE,MixedDisorderOfScholasticSkills,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4536,PHENOTYPE,DCD-DevelopmentalCoordinationDisorder,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4537,PHENOTYPE,AutisticDisorderOfChildhoodOnset,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4538,PHENOTYPE,AtypicalAutism,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4539,PHENOTYPE,RettsDisorder,NULL,Case finding,Dichotomous,Excluding Dementia due to Retts syndrome,02/09/2020
+3,G,4540,PHENOTYPE,AspergersDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4541,PHENOTYPE,AttentionDeficitHyperactivityDisorder,NULL,Case finding,Dichotomous,Excluding Hyperkinesis with developmental delay. Exclude Hyperkinetic conduct disorder. Exclude Adult Attention Deficit Disorder,02/09/2020
+3,G,4542,PHENOTYPE,HyperkineticConductDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4543,PHENOTYPE,SocialisedBehaviourDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4544,PHENOTYPE,ConductDisorder-Unsocialised,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4545,PHENOTYPE,OppositionalDefiantDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4546,PHENOTYPE,DepressiveConductDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4547,PHENOTYPE,SeparationAnxietyDisorderOfChildhood,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4548,PHENOTYPE,ChildhoodPhobicAnxietyDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4549,PHENOTYPE,SiblingJealousy,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4550,PHENOTYPE,ElectiveMutism,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4551,PHENOTYPE,ReactiveAttachmentDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4552,PHENOTYPE,ChildhoodDisinhibitedAttachmentDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4553,PHENOTYPE,TransientTicDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4554,PHENOTYPE,ChronicMotorTicDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4555,PHENOTYPE,VocalTicDisorder,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4556,PHENOTYPE,GillesDeLaTourettesSyndrome,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4557,PHENOTYPE,UrinaryIncontinenceOfNon-organicOrigin,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4558,PHENOTYPE,Non-organicContinuousEncopresis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4559,PHENOTYPE,Non-organicDiscontinuousEncopresis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4560,PHENOTYPE,DevelopmentalDelayInFeeding,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4561,PHENOTYPE,Non-organicInfantFeedingDisturbance,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4562,PHENOTYPE,PicaOfInfancyAndChildhood,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4563,PHENOTYPE,StereotypyHabitDisorder,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4564,PHENOTYPE,Stammering,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4565,PHENOTYPE,Cluttering,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4566,PHENOTYPE,IntentionalPoisoningByDrug,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4567,PHENOTYPE,IntentionalPoisoning,NULL,Case finding,Dichotomous,Excluding Intentional poisoning by drug ,02/09/2020
+3,G,4568,PHENOTYPE,IntentionallyHarmingSelf,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4574,PHENOTYPE,AcutePolymorphicPsychoticDisWiSympOfSchizophrenia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4575,PHENOTYPE,BPDMostRecentEpisodeManicSevereWithPsychosis,NULL,Case finding,Dichotomous,,02/09/2020
+3,G,4576,PHENOTYPE,PsychosisAndSevereDepressionWithAndDueToBPD,NULL,Case finding,Dichotomous,,22/09/2020
+3,G,4577,PHENOTYPE,SevereMajorDepressiveDisWithAnxietySingleEpisode,NULL,Case finding,Dichotomous,,22/09/2020
+3,G,4578,PHENOTYPE,SevereRecurrentMajorDepression,NULL,Case finding,Dichotomous,,22/09/2020
+3,G,4579,PHENOTYPE,SevereRecurrentMajorDepressionWithPsychoticFeature,NULL,Case finding,Dichotomous,,22/09/2020
+7,G,4580,OUTCOME,FindingOfDecreaseInAppetite,FindingOfDecreaseInAppetite,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,02/09/2020
+1,G,4580,OUTCOME,FindingOfDecreaseInAppetite,FindingOfDecreaseInAppetite,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,02/09/2020
+7,G,4581,OUTCOME,FindingOfDiarrhoea,FindingOfDiarrhoea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+1,G,4581,OUTCOME,FindingOfDiarrhoea,FindingOfDiarrhoea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+2,G,4581,PHENOTYPE,FindingOfDiarrhoea,FindingOfDiarrhoea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+7,G,4582,OUTCOME,FindingOfNausea,FindingOfNausea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+1,G,4582,OUTCOME,FindingOfNausea,FindingOfNausea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+7,G,4583,OUTCOME,FindingOfVomiting,FindingOfVomiting,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+1,G,4583,OUTCOME,FindingOfVomiting,FindingOfVomiting,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+7,G,4584,OUTCOME,FindingOfDrowsiness,FindingOfDrowsiness,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4585,OUTCOME,FindingOfFatigue,FindingOfFatigue,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+2,G,4585,PHENOTYPE,FindingOfFatigue,FindingOfFatigue,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4586,OUTCOME,FindingOfIrritability,FindingOfIrritability,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4587,OUTCOME,FindingOfMalaise,FindingOfMalaise,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4588,OUTCOME,FindingOfHeadache,FindingOfHeadache,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+1,G,4588,OUTCOME,FindingOfHeadache,FindingOfHeadache,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+7,G,4589,OUTCOME,FindingOfLocalisedErythema,FindingOfLocalisedErythema,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4590,OUTCOME,Arthropathy,Arthropathy,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4591,OUTCOME,FindingOfMyalgia,FindingOfMyalgia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4592,OUTCOME,GuillainBarrieSyndrome,GuillainBarrieSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4593,OUTCOME,FindingOfPeripheralTremor,FindingOfPeripheralTremor,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4594,OUTCOME,Seizure,Seizure,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4595,OUTCOME,FebrileConvulsion,FebrileConvulsion,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4596,OUTCOME,BellsPalsy,BellsPalsy,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4597,OUTCOME,EruptionOfSkin,EruptionOfSkin,Case finding,Dichotomous,"Curated for use as Adverse Event Indicator.  Note ""EruptioOfSkin"" stands for ""skin rash""",09/09/2020
+7,G,4598,OUTCOME,Conjunctivitis,Conjunctivitis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4599,OUTCOME,CommonCold,CommonCold,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4600,OUTCOME,FindingOfCough,FindingOfCough,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4601,OUTCOME,BleedingFromNose,BleedingFromNose,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4602,OUTCOME,FindingOfHoarseness,FindingOfHoarseness,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4603,OUTCOME,FindingOfNasalCongestion,FindingOfNasalCongestion,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4604,OUTCOME,FindingOfPainfulMouth,FindingOfPainfulMouth,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4605,OUTCOME,FindingOfSoreThroat,FindingOfSoreThroat,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4606,OUTCOME,FindingOfNasalDischarge,FindingOfNasalDischarge,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4607,OUTCOME,FindingOfWheezing,FindingOfWheezing,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4608,OUTCOME,Anaphylaxis,Anaphylaxis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+1,G,4608,OUTCOME,Anaphylaxis,Anaphylaxis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,08/09/2020
+7,G,4609,OUTCOME,FindingOfOedemaOfFace,FindingOfOedemaOfFace,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4610,OUTCOME,HypersensitivityReaction,HypersensitivityReaction,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+3,G,4611,PHENOTYPE,DementiaWithLewyBodies,NULL,Case finding,Dichotomous,,17/09/2020
+3,G,4612,PHENOTYPE,DementiaWithParkinsonism,NULL,Case finding,Dichotomous,,17/09/2020
+3,G,4613,PHENOTYPE,DementiaWithEpilepsy,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4614,PHENOTYPE,FrontotemporalDementia,NULL,Case finding,Dichotomous,Exclude Picks Disease. Includes inclusion body myopathy with early-onset Paget Disease and frontotemporal dementia ,09/09/2020
+3,G,4615,PHENOTYPE,DementiaWithHepatolenticularDegeneration,NULL,Case finding,Dichotomous,Include wilson’s disease ,09/09/2020
+3,G,4616,PHENOTYPE,DementiaDueToHypercalcaemia,NULL,Case finding,Dichotomous,Includes dementia due to metabolic abnormality ,09/09/2020
+3,G,4617,PHENOTYPE,DementiaDueToHypothyroidism,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4618,PHENOTYPE,DementiaDueToIntoxication,NULL,Case finding,Dichotomous,Includes dementia assoc with alcoholism. Includes drug-induced dementia ,09/09/2020
+3,G,4619,PHENOTYPE,DementiaDueToMultipleSclerosis,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4620,PHENOTYPE,DementiaDueToNeurosyphilis,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4621,PHENOTYPE,DementiaDueToNiacinDeficiency,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4623,PHENOTYPE,DementiaDueToPrionDisease,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4624,PHENOTYPE,DementiaDueToSLE,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4625,PHENOTYPE,DementiaDueToTraumaticBrainInjury,NULL,Case finding,Dichotomous,Exclude post-traumatic dementia.  Exclude punch drunk syndrome ,09/09/2020
+3,G,4626,PHENOTYPE,DementiaDueToTrypanosomiasis,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4627,PHENOTYPE,DementiaDueToVitaminBDeficiency,NULL,NULL,NULL,NULL,NULL
+3,G,4628,PHENOTYPE,AcuteSubacuteBrainSyndrome,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4629,PHENOTYPE,AcuteSubacuteConfusionalState,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4630,PHENOTYPE,AcuteSubacuteInfectivePsychosis,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4631,PHENOTYPE,SchizophreniformDisorder,NULL,Case Finding,Dichotomous,,19/01/2021
+7,G,4632,ETHNICITY,EthnicityAsianIndian,EthnicityAsianIndian,Case finding,Dichotomous,,22/09/2020
+3,G,4633,PHENOTYPE,DeliriumOfMixedEtiology,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4634,PHENOTYPE,DeliriumSuperimposedOnDementia,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4635,PHENOTYPE,Sundowning,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4636,PHENOTYPE,VolatileSolventIntoxication,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4637,INTERVENTION,SolventMisuse,HarmfulUseOfVolatileSolvents,Case Finding,Dichotomous,Evidence of volatile solvent misuse or harmful use,12/01/2021
+3,G,4638,PHENOTYPE,ParanoidDisorder,NULL,Case finding,Dichotomous,Exclude alcoholic paranoia. Include shared paranoid disorder ,09/09/2020
+3,G,4639,PHENOTYPE,Paraphrenia,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4640,PHENOTYPE,AcuteParanoidReaction,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4641,PHENOTYPE,PsychogenicParanoidPsychosis,NULL,Case Finding,Dichotomous,,19/01/2021
+3,G,4642,INTERVENTION,AtypicalDepressiveDisorder,AtypicalDepression,Case Finding,Dichotomous,Evidence of any form of atypical depression,12/01/2021
+3,G,4643,PHENOTYPE,PremenstrualDysphoricDisorder,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4644,PHENOTYPE,DisruptiveMoodDysregulationDisorder,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4645,PHENOTYPE,NaturalEnvironmentTypePhobia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4646,PHENOTYPE,BloodInjuryInjectionTypePhobia,NULL,Case finding,Dichotomous,,18/09/2020
+3,G,4647,PHENOTYPE,Androphobia,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4648,PHENOTYPE,Gynephobia,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4649,PHENOTYPE,AdjustmentDisorder,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4650,PHENOTYPE,PsychogenicDysmenorrhea,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4651,PHENOTYPE,PsychogenicDysphagia,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4652,PHENOTYPE,PsychogenicPruritis,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4653,PHENOTYPE,PsychogenicTorticollis,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4654,PHENOTYPE,SomatoformAutonomicDysfunction,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4655,PHENOTYPE,TeethGrinding,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4656,PHENOTYPE,PseudobulbarAffect,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4657,PHENOTYPE,NightmareDisorder,NULL,Case finding,Dichotomous,Includes dream anxiety disorder. Excludes nightmares assoc with chronic PTSD ,09/09/2020
+3,G,4658,PHENOTYPE,SexualAversionDisorder,NULL,Case finding,Dichotomous,,09/09/2020
+3,G,4659,PHENOTYPE,IntermittentExplosiveDisorder,NULL,Case finding,Dichotomous,Including paraphilias ,09/09/2020
+1,G,4660,OUTCOME,FindingOfHaemolysis,FindingOfHaemolysis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4660,OUTCOME,FindingOfHaemolysis,FindingOfHaemolysis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4661,OUTCOME,HaemolyticAnaemia,HaemolyticAnaemia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4661,OUTCOME,HaemolyticAnaemia,HaemolyticAnaemia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4662,OUTCOME,Agranulocytosis,Agranulocytosis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4662,OUTCOME,Agranulocytosis,Agranulocytosis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4663,OUTCOME,AplasticAnaemia,AplasticAnaemia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4663,OUTCOME,AplasticAnaemia,AplasticAnaemia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4664,OUTCOME,BoneMarrowDepression,BoneMarrowDepression,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4664,OUTCOME,BoneMarrowDepression,BoneMarrowDepression,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4665,OUTCOME,FindingOfLeucopenia,FindingOfLeucopenia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4665,OUTCOME,FindingOfLeucopenia,FindingOfLeucopenia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4666,OUTCOME,FindingOfNeutropenia,FindingOfNeutropenia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4666,OUTCOME,FindingOfNeutropenia,FindingOfNeutropenia,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4667,OUTCOME,ThrombocytopenicDisorder,ThrombocytopenicDisorder,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4667,OUTCOME,ThrombocytopenicDisorder,ThrombocytopenicDisorder,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4668,OUTCOME,Stevens-JohnsonSyndrome,Stevens-JohnsonSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4668,OUTCOME,Stevens-JohnsonSyndrome,Stevens-JohnsonSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4669,OUTCOME,LyellSyndrome,LyellSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4669,OUTCOME,LyellSyndrome,LyellSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4670,OUTCOME,DrugReactionWithEosinophiliaAndSystemicSymptoms,DrugReactionWithEosinophiliaAndSystemicSymptoms,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4670,OUTCOME,DrugReactionWithEosinophiliaAndSystemicSymptoms,DrugReactionWithEosinophiliaAndSystemicSymptoms,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4671,OUTCOME,ErythemaMultiforme,ErythemaMultiforme,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4671,OUTCOME,ErythemaMultiforme,ErythemaMultiforme,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4672,OUTCOME,ItchingOfSkin,ItchingOfSkin,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4672,OUTCOME,ItchingOfSkin,ItchingOfSkin,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4673,OUTCOME,Henoch-SchonleinPurpura,Henoch-SchonleinPurpura,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4673,OUTCOME,Henoch-SchonleinPurpura,Henoch-SchonleinPurpura,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4674,OUTCOME,ToxicLiverDisease,ToxicLiverDisease,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4674,OUTCOME,ToxicLiverDisease,ToxicLiverDisease,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4675,OUTCOME,ChoestaticJaundiceSyndrome,ChoestaticJaundiceSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4675,OUTCOME,ChoestaticJaundiceSyndrome,ChoestaticJaundiceSyndrome,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4676,OUTCOME,HepaticFailure,HepaticFailure,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4676,OUTCOME,HepaticFailure,HepaticFailure,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4677,OUTCOME,FindingOfAbdominalPain,FindingOfAbdominalPain,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4677,OUTCOME,FindingOfAbdominalPain,FindingOfAbdominalPain,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4678,OUTCOME,ClostridiumDifficileDiarrhoea,ClostridiumDifficileDiarrhoea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4678,OUTCOME,ClostridiumDifficileDiarrhoea,ClostridiumDifficileDiarrhoea,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4679,OUTCOME,Pancreatitis,Pancreatitis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4679,OUTCOME,Pancreatitis,Pancreatitis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4680,OUTCOME,Oesophagitis,Oesophagitis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4680,OUTCOME,Oesophagitis,Oesophagitis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4681,OUTCOME,UlcerOfOesphagus,UlcerOfOesphagus,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4681,OUTCOME,UlcerOfOesphagus,UlcerOfOesphagus,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4682,OUTCOME,Angioedema,Angioedema,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4682,OUTCOME,Angioedema,Angioedema,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4683,OUTCOME,FindingOfCloudedConsciousness,FindingOfCloudedConsciousness,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4683,OUTCOME,FindingOfCloudedConsciousness,FindingOfCloudedConsciousness,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4684,OUTCOME,Delirium,Delirium,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4684,OUTCOME,Delirium,Delirium,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4685,OUTCOME,FindingOfExtraPyramidalMovements,FindingOfExtraPyramidalMovements,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4685,OUTCOME,FindingOfExtraPyramidalMovements,FindingOfExtraPyramidalMovements,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4686,OUTCOME,FindingOfHallucinations,FindingOfHallucinations,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4686,OUTCOME,FindingOfHallucinations,FindingOfHallucinations,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4687,OUTCOME,FindingOfPsychomotorAgitation,FindingOfPsychomotorAgitation,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4687,OUTCOME,FindingOfPsychomotorAgitation,FindingOfPsychomotorAgitation,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4688,OUTCOME,BenignIntracranialHypertension,BenignIntracranialHypertension,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4688,OUTCOME,BenignIntracranialHypertension,BenignIntracranialHypertension,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4689,OUTCOME,FindingOfTinnitus,FindingOfTinnitus,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4689,OUTCOME,FindingOfTinnitus,FindingOfTinnitus,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,G,4690,OUTCOME,BacterialVaginosis,BacterialVaginosis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,G,4690,OUTCOME,BacterialVaginosis,BacterialVaginosis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+1,R,4691,OUTCOME,Pericarditis,Pericarditis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+7,R,4691,OUTCOME,Pericarditis,Pericarditis,Case finding,Dichotomous,Curated for use as Adverse Event Indicator,09/09/2020
+3,G,4698,PHENOTYPE,VictimOfAbuse,NULL,Case finding,Dichotomous,,15/09/2020
+3,G,4699,PHENOTYPE,DomesticAbuse,NULL,Case finding,Dichotomous,,15/09/2020
+3,G,4700,PHENOTYPE,DomesticEmotionalAbuse,NULL,Case finding,Dichotomous,,15/09/2020
+3,G,4701,PHENOTYPE,DomesticSexualAbuse,NULL,Case finding,Dichotomous,,15/09/2020
+3,G,4702,PHENOTYPE,DomesticAbuseOfAdult,NULL,Case finding,Dichotomous,,15/09/2020
+7,G,4709,PHENOTYPE,FindingOfLossOfSenseOfSmell,FindingOfLossOfSenseOfSmell,Case finding,Dichotomous,Covers all concepts relating to anosmia so use with time filter for acute anosmia,21/09/2020
+1,A,4710,OUTCOME,DiabeticFootUlcer,NULL,Case finding,Dichotomous,,15/09/2020
+1,A,4711,OUTCOME,LowerExtremityAmputationMinor,NULL,Case finding,Dichotomous,,15/09/2020
+1,A,4712,OUTCOME,LowerExtremityAmputationMajor,NULL,Case finding,Dichotomous,,15/09/2020
+1,A,4713,OUTCOME,DiabeticNeuropathy,NULL,Case finding,Dichotomous,,15/09/2020
+1,A,4714,OUTCOME,DiabeticRetinopathy,NULL,Case finding,Dichotomous,,15/09/2020
+7,R,4715,PHENOTYPE,FindingOfSedentaryLifestyle,FindingOfSedentaryLifestyle,Case finding,Dichotomous,,22/09/2020
+7,R,4716,PHENOTYPE,FindingOfParentingProblems,FindingOfParentingProblems,Case finding,Dichotomous,,22/09/2020
+7,R,4717,PHENOTYPE,FindingOfPoorDiet,FindingOfPoorDiet,Case finding,Dichotomous,,22/09/2020
+7,R,4718,PHENOTYPE,FindingOfUnemployment,FindingOfUnemployment,Case finding,Dichotomous,,22/09/2020
+7,R,4719,PHENOTYPE,FindingOfUnsatisfactoryLivingConditions,FindingOfUnsatisfactoryLivingConditions,Case finding,Dichotomous,,22/09/2020
+7,R,4720,PHENOTYPE,FindingOfSchoolNonAttendance,FindingOfSchoolNonAttendance,Case finding,Dichotomous,,22/09/2020
+7,R,4721,PHENOTYPE,FindingOfLiteracyProblems,FindingOfLiteracyProblems,Case finding,Dichotomous,,22/09/2020
+7,R,4722,PHENOTYPE,FindingOfBereavement,FindingOfBereavement,Case finding,Dichotomous,,22/09/2020
+7,R,4723,PHENOTYPE,FindingOfFinancialProblem,FindingOfFinancialProblem,Case finding,Dichotomous,,22/09/2020
+7,R,4724,PHENOTYPE,FindingOfLowerClassEconomicStatus,FindingOfLowerClassEconomicStatus,Case finding,Dichotomous,,22/09/2020
+7,G,4725,ETHNICITY,EthnicityAsianPakistani,EthnicityAsianPakistani,Case finding,Dichotomous,,22/09/2020
+7,G,4726,ETHNICITY,EthnicityAsianBangladeshi,EthnicityAsianBangladeshi,Case finding,Dichotomous,,22/09/2020
+7,G,4727,ETHNICITY,EthnicityAsianChinese,EthnicityAsianChinese,Case finding,Dichotomous,,22/09/2020
+7,G,4728,ETHNICITY,EthnicityAsianOther,EthnicityAsianOther,Case finding,Dichotomous,,22/09/2020
+7,G,4729,ETHNICITY,EthnicityArab,EthnicityArab,Case finding,Dichotomous,,22/09/2020
+7,G,4730,ETHNICITY,EthnicityMixedMultipleEthnicGroups,EthnicityMixedMultipleEthnicGroups,Case finding,Dichotomous,,22/09/2020
+7,G,4731,ETHNICITY,EthnicityOther,EthnicityOther,Case finding,Dichotomous,,22/09/2020
+7,G,4732,PHENOTYPE,RespiratorySystemDiseases,RespiratorySystemDiseases,Case finding,Dichotomous,For weekly reports. Based on ICD J00 - J99.  Replacement for 1022,03/12/2020
+7,G,4733,PHENOTYPE,Diphtheria,Diphtheria,Case finding,Dichotomous,,26/09/2020
+7,G,4734,PHENOTYPE,InfectionCausedByHumanPoliovirus,InfectionCausedByHumanPoliovirus,Case finding,Dichotomous,,26/09/2020
+7,G,4735,PHENOTYPE,Tetanus,Tetanus,Case finding,Dichotomous,,26/09/2020
+2,G,4737,PHENOTYPE,HereditaryHaemochromatosis,HereditaryHaemochromatosis,Case finding,Dichotomous,,29/09/2020
+7,G,4737,PHENOTYPE,HereditaryHaemochromatosis,HereditaryHaemochromatosis,Case finding,Dichotomous,,29/09/2020
+2,G,4738,PHENOTYPE,OperationOnPancreas,NULL,Case finding,Dichotomous,,29/09/2020
+2,G,4739,PHENOTYPE,MalignantTumourOfExocrinePancreas,NULL,Case finding,Dichotomous,Includes some secondary cancers,29/09/2020
+2,G,4740,PHENOTYPE,PrimaryAdenocarcinomaOfPancreas,NULL,Case finding,Dichotomous,,29/09/2020
+2,G,4741,PHENOTYPE,AcinarCellCarcinomaOfPancreas,NULL,Case finding,Dichotomous,,29/09/2020
+2,G,4742,PHENOTYPE,PrimaryMalignantNeuroendocrineNeoplasmOfPancreas,NULL,Case finding,Dichotomous,,29/09/2020
+2,R,4743,PHENOTYPE,CarcinoembryonicAntigenLevel,NULL,Investigation,Numeric,,29/09/2020
+2,R,4744,PHENOTYPE,HighCarcinoembryonicAntigenLevel,NULL,Investigation,Dichotomous,,29/09/2020
+2,A,4745,PHENOTYPE,Pancreaticoduodenectomy,NULL,Case finding,Dichotomous,,29/09/2020
+2,A,4746,PHENOTYPE,Pancreatectomy,NULL,Case finding,Dichotomous,NB this includes all pancreaticoduodenectomies,29/09/2020
+2,A,4747,PHENOTYPE,RadiationOncologyAndOrRadiotherapy,NULL,Case finding,Dichotomous,,29/09/2020
+2,A,4748,PHENOTYPE,Chemotherapy,NULL,Case finding,Dichotomous,,29/09/2020
+2,G,4749,PHENOTYPE,SuspectedPancreaticCancer,NULL,Case finding,Dichotomous,,29/09/2020
+7,G,4773,PHENOTYPE,RheumaticDiseaseCharlson,RheumaticDiseaseCharlson,Case finding,Dichotomous,"Charlson index variable based on ICD M0.5x, M06x,M31.5,M32x-M34x,M35.1,M35.3,M36.0",06/10/2020
+7,G,4774,PHENOTYPE,PepticUlcer,PepticUlcer,Case finding,Dichotomous,,01/10/2020
+7,G,4775,PHENOTYPE,DiabetesWithComplicationCharlson,DiabetesWithComplicationCharlson,Case finding,Dichotomous,"Charlson index variable based on ICD E10.2-E10.5,E10.7,E11.2-E11.5,E11.7,E12.2-E12.5,E12.7,E13.2-E13.5,E13.7,E14.2-E14.5,E14.7",13/10/2020
+7,G,4776,PHENOTYPE,Hemiplegia,Hemiplegia,Case finding,Dichotomous,,01/10/2020
+7,G,4777,PHENOTYPE,Paraplegia,Paraplegia,Case finding,Dichotomous,,01/10/2020
+7,G,4778,PHENOTYPE,MalignantNeoplasticDiseaseExceptSkin,MalignantNeoplasticDiseaseExceptSkin,Case finding,Dichotomous,,01/10/2020
+7,G,4779,PHENOTYPE,MildLiverDiseaseCharlson,MildLiverDiseaseCharlson,Case finding,Dichotomous,"Charlson index variable based on ICD B18x,K70.0-K70.3,K70.9,K71.3-K71.5,K71.7,K73.x,K74.x,K76.0,K76.2-K76.4,K76.8,K76.9,Z94.4",13/10/2020
+7,G,4780,PHENOTYPE,ModerateSevereLiverDiseaseCharlson,ModerateSevereLiverDiseaseCharlson,Case finding,Dichotomous,"Charlson index variable based on ICD I85.0,I85.9,I86.4,I98.2,K70.4,K71.1,K72.1,K72.9,K76.5,K76.6,K76.7",13/10/2020
+7,G,4781,PHENOTYPE,SecondaryMalignantNeoplasticDisease,SecondaryMalignantNeoplasticDisease,Case finding,Dichotomous,,01/10/2020
+7,G,4782,PHENOTYPE,HumanImmunodeficiencyVirusInfection,HumanImmunodeficiencyVirusInfection,Case finding,Dichotomous,,01/10/2020
+7,A,4783,PHENOTYPE,COVID-19ConfirmedV4,COVID-19ConfirmedV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+7,A,4784,PHENOTYPE,COVID-19ExposureV4,COVID-19ExposureV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+7,A,4785,PHENOTYPE,COVID-19InvestigationV4,COVID-19InvestigationV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+7,A,4786,PHENOTYPE,COVID-19NotDetectedV4,COVID-19NotDetectedV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+7,A,4787,PHENOTYPE,COVID-19ProbableV4,COVID-19ProbableV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+7,A,4788,PHENOTYPE,COVID-19SuspectedV4,COVID-19SuspectedV4,Case finding,Dichotomous,COVID-19 Case finding V4 - ask data team for details of version sequence 1-4,06/10/2020
+3,G,4789,PHENOTYPE,MentalDisorder,NULL,Case finding,Dichotomous,Strong evidence of any mental disorder based on disorders and findings and some procedural and situation concepts,20/10/2020
+3,G,4790,PHENOTYPE,DepressiveDisorder,NULL,Case finding,Dichotomous,"Includes depression as disorder, including bipolar depression, and as finding but not depressed mood",20/10/2020
+3,G,4791,PHENOTYPE,AnxietyDisorder,NULL,Case finding,Dichotomous,Includes Anxiety as disorder and as finding but not anxious or worried,20/10/2020
+4,G,4792,PHENOTYPE,Gout,NULL,Case finding,Dichotomous,"Strong evidence of gout based on disorder, finding and other semantic tags",20/10/2020
+7,G,4793,PHENOTYPE,MeaslesMumpsAndRubellaVaccination,MeaslesMumpsAndRubellaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4794,PHENOTYPE,MeaslesVaccination,MeaslesVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4795,PHENOTYPE,MumpsVaccination,MumpsVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4796,PHENOTYPE,RubellaVaccination,RubellaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4797,PHENOTYPE,MeaslesMumpsRubellaVaricellaVaccination,MeaslesMumpsRubellaVaricellaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4798,PHENOTYPE,DiphtheriaPertussisAndTetanusVaccination,DiphtheriaPertussisAndTetanusVaccination,Vaccination event,Dichotomous,,09/11/2020
+4,G,4799,PHENOTYPE,AutoimmuneHypothyroidism,NULL,Case Finding,Dichotomous,Hypothyroidism clearly defined as autoimmune in origin - includes Hashimotos thyroiditis,02/02/2021
+4,G,4800,PHENOTYPE,HashimotoThyroiditis,NULL,Case finding,Dichotomous,,NULL
+4,G,4801,PHENOTYPE,Hypothyroidism,NULL,Case finding,Dichotomous,"Hypothyroidism of any cause e.g. autoimmune, post surgery, or unspecified",NULL
+4,G,4802,PHENOTYPE,HypothyroidismExcludingAutoimmune,NULL,Case finding,Dichotomous,,NULL
+4,G,4803,PHENOTYPE,GravesDisease,NULL,Case finding,Dichotomous,,NULL
+4,G,4804,PHENOTYPE,AddisonsDiseases,NULL,Case finding,Dichotomous,,NULL
+4,G,4805,PHENOTYPE,SystemicLupusErythematosus,NULL,Case finding,Dichotomous,,NULL
+4,G,4806,PHENOTYPE,PerniciousAnaemia,NULL,Case finding,Dichotomous,,NULL
+4,G,4807,PHENOTYPE,Vitiligo,NULL,Case finding,Dichotomous,,NULL
+4,G,4808,PHENOTYPE,SjogrensSyndrome,NULL,Case finding,Dichotomous,,NULL
+4,G,4809,PHENOTYPE,PolymyalgiaRheumatica,NULL,Case finding,Dichotomous,,NULL
+4,G,4810,PHENOTYPE,DrugOverdose,NULL,Case finding,Dichotomous,Medication overdose of any type,NULL
+4,G,4811,PHENOTYPE,SuicideAttemptByInadequateMeans,NULL,Case finding,Dichotomous,Suicide attempted by any specified or unspecified means,NULL
+4,G,4814,,ImprovingAccessToPsychologicalTherapiesUse,NULL,Intervention,Dichotomous,Use of NHS Improving Access to Psychological Therapies (IAPT) Service,NULL
+4,G,4815,,PsychiatricReview,NULL,Intervention,Dichotomous,Review by any psychiatric service,NULL
+7,G,4816,PHENOTYPE,DiphtheriaPertussisTetanusAndPolioVaccination,DiphtheriaPertussisTetanusAndPolioVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4818,PHENOTYPE,DiphtheriaPertussisTetanusPolioHIB-Vaccination,DiphtheriaPertussisTetanusPolioHIB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4819,PHENOTYPE,DiphtheriaPertussisTetanusPolioHIBHepB-Vaccination,DiphtheriaPertussisTetanusPolioHIBHepB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4820,PHENOTYPE,DiphtheriaVaccination,DiphtheriaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4821,PHENOTYPE,PertussisVaccination,PertussisVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4822,PHENOTYPE,TetanusVaccination,TetanusVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4823,PHENOTYPE,PolioVaccination,PolioVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4824,PHENOTYPE,HaemophilusInfluenzaeTypeB-Vaccination,HaemophilusInfluenzaeTypeB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4825,PHENOTYPE,HepatitisB-Vaccination,HepatitisB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4826,PHENOTYPE,HepatitisA-Vaccination,HepatitisA-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4827,PHENOTYPE,HepatitisA&B-Vaccination,HepatitisA&B-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4828,PHENOTYPE,HepatitisA&TyphoidVaccination,HepatitisA&TyphoidVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4829,PHENOTYPE,Herpes ZosterVaccination,Herpes ZosterVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4830,PHENOTYPE,MeningitisC&HIB-Vaccination,MeningitisC&HIB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4831,PHENOTYPE,HumanPapillomavirusVaccination,HumanPapillomavirusVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4832,PHENOTYPE,MeaslesAndRubellaVaccination,MeaslesAndRubellaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4833,PHENOTYPE,MeningococcusVaccination,MeningococcusVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4834,PHENOTYPE,MeningitisA&C-Vaccination,MeningitisA&C-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4835,PHENOTYPE,MeningitisACWY-Vaccination,MeningitisACWY-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4836,PHENOTYPE,MeningitisB-Vaccination,MeningitisB-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4837,PHENOTYPE,PneumococcalVaccination,PneumococcalVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4838,PHENOTYPE,RotavirusVaccination,RotavirusVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4839,PHENOTYPE,VaricellaVaccination,VaricellaVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4840,PHENOTYPE,DiphtheriaTetanusPolioVaccination,DiphtheriaTetanusPolioVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4841,PHENOTYPE,MeningitisC-Vaccination,MeningitisC-Vaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4842,PHENOTYPE,TetanusAndPolioVaccination,TetanusAndPolioVaccination,Vaccination event,Dichotomous,,09/11/2020
+7,G,4846,,FindingOfDyspnoea,FindingOfDyspnoea,Case Finding,Dichotomous,,03/11/2020
+7,G,4847,,FindingOfLossOfTaste,FindingOfLossOfTaste,Case Finding,Dichotomous,,03/11/2020
+7,G,4848,,BloodOxygenSaturation,BloodOxygenSaturation,Investigation,Numeric,Test result - observable entities for various types of oxygen saturation,03/11/2020
+7,G,4849,PHENOTYPE,DeepVenousThrombosis,DeepVenousThrombosis,Case finding,Dichotomous,Any concept indicating deep venous thrombosis in any part of body or limbs and including intracranial venous thrombosis,16/03/2021
+7,G,4850,PHENOTYPE,PulmonaryEmbolism,PulmonaryEmbolism,Case finding,Dichotomous,Pulmonary embolism by blood clot - excludes other forms of embolism,03/11/2020
+7,G,4851,PHENOTYPE,SARS-CoV-2RNADetectionResultPositive,SARS-CoV-2RNADetectionResultPositive,Case finding,Dichotomous,Any concept indicating positive test result for SARS-CoV-2 - rna,01/12/2020
+7,G,4852,PHENOTYPE,SARS-CoV-2AntigenDetectionResultPositive,SARS-CoV-2AntigenDetectionResultPositive,Case finding,Dichotomous,Any concept indicating positive test result for SARS-CoV-2 - antigen,01/12/2020
+7,G,4853,PHENOTYPE,COVID-19,COVID-19,Case finding,Dichotomous,Any concept indicating clinical diagnosis of COVID-19 but excluding ongoing symptomatic COVID-19 infection and also Post-COVID-19 syndrome,01/12/2020
+7,G,4854,PHENOTYPE,ExposureToSARS-CoV-2Infection,ExposureToSARS-CoV-2Infection,Case finding,Dichotomous,Any concept indicating exposure to SARS-CoV-2,01/12/2020
+7,G,4855,PHENOTYPE,SuspectedCOVID-19,SuspectedCOVID-19,Case finding,Dichotomous,Any concept indicating suspected SARS-CoV-2,01/12/2020
+7,G,4856,PHENOTYPE,COVID-19ConfirmedByLaboratoryTest,COVID-19ConfirmedByLaboratoryTest,Case finding,Dichotomous,Any concept indicating positive test result for SARS-CoV-2 - rna or antigen,01/12/2020
+7,G,4857,PHENOTYPE,COVID-19ConfirmedClinically,COVID-19ConfirmedClinically,Case finding,Dichotomous,Any concept indicating explicit clinical confirmation of diagnosis of COVID-19,01/12/2020
+7,G,4858,PHENOTYPE,Gastroenteritis,Gastroenteritis,Case Finding,Dichotomous,For syndromic surveillance,04/11/2020
+7,G,4859,PHENOTYPE,DiarrhoeaOfPresumedInfectiousOrigin,DiarrhoeaOfPresumedInfectiousOrigin,Case Finding,Dichotomous,For syndromic surveillance,04/11/2020
+7,G,4860,PHENOTYPE,HeatStroke,HeatStroke,Case Finding,Dichotomous,For syndromic surveillance,04/11/2020
+7,G,4861,PHENOTYPE,Cellulitis,Cellulitis,Case Finding,Dichotomous,For syndromic surveillance,04/11/2020
+7,G,4862,PHENOTYPE,BiteOfArthropod,BiteOfArthropod,Case Finding,Dichotomous,For syndromic surveillance,04/11/2020
+3,G,4863,PHENOTYPE,ReferralToBenefitsAgency,NULL,Case finding,Dichotomous,,09/11/2020
+3,G,4864,PHENOTYPE,ReferralToPhysicalActivityProgramme,NULL,Case finding,Dichotomous,,09/11/2020
+3,G,4865,PHENOTYPE,ReferralToArtsTherapyServices,NULL,Case finding,Dichotomous,,09/11/2020
+3,G,4866,PHENOTYPE,SocialPrescribingForMentalHealth,NULL,Case finding,Dichotomous,,09/11/2020
+3,G,4867,PHENOTYPE,HealthEducationOffered,NULL,Case finding,Dichotomous,,09/11/2020
+2,G,4868,PHENOTYPE,RectalHaemorrhage,NULL,Case Finding,Dichotomous,,08/04/2021
+2,G,4869,PHENOTYPE,RectalExaminationNAD,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4870,PHENOTYPE,RectalExaminationOfProstateAbnormalityDetected,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4871,PHENOTYPE,RectalExaminationRectalMass,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4872,PHENOTYPE,FindingOfIndigestion,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4873,PHENOTYPE,PelvicMass,FindingOfPelvicMass,Case finding,Dichotomous,,10/11/2020
+2,G,4874,PHENOTYPE,FindingOfMicroscopicHaematuria,MicroscopicHaematuria,Case finding,Dichotomous,,10/11/2020
+2,G,4875,PHENOTYPE,BCSP-FaecalImmunochemicalTestNormal,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4876,PHENOTYPE,BCSP-FaecalImmunochemicalTestAbnormal,NULL,Case finding,Dichotomous,,10/11/2020
+2,G,4877,PHENOTYPE,MalignantTumourOfHead&Neck,NULL,Case finding,Dichotomous,"Based on ICD C76.x,C00-C14,C30-C32. Does not include tracheal neoplasms",10/11/2020
+2,G,4878,PHENOTYPE,MalignantTumourOfExtrahepaticBileDuct,NULL,Case finding,Dichotomous,Based on ICD C24.x,10/11/2020
+2,G,4879,PHENOTYPE,MalignantTumourOfMeninges,NULL,Case finding,Dichotomous,Based on ICD C70.x,10/11/2020
+2,G,4880,PHENOTYPE,FindingOfHaemoptysis,NULL,Case finding,Dichotomous,,11/11/2020
+2,G,4881,PHENOTYPE,QuantitativeFaecalImmunochemicalTest,NULL,Case finding,Numeric,,11/11/2020
+2,G,4882,PHENOTYPE,MalignantTumourOfTrachea,NULL,Case finding,Dichotomous,Based on ICD C33,11/11/2020
+7,G,4883,PHENOTYPE,COVID-19ExcludedByLaboratoryTest,COVID-19ExcludedByLaboratoryTest,Case finding,Dichotomous,Explicit statement that COVID-19 excluded by lab test but not emcompassing lab test results,01/12/2020
+7,G,4884,PHENOTYPE,COVID-19ExcludedUsingClinicalDiagnosticCriteria,COVID-19ExcludedUsingClinicalDiagnosticCriteria,Case finding,Dichotomous,Explicit statement that COVID-19 excluded using clinical diagnostic criteria,01/12/2020
+7,G,4885,PHENOTYPE,SARS-CoV-2DetectionResultNegative,SARS-CoV-2DetectionResultNegative,Case finding,Dichotomous,Any concept indicating negative test result for SARS-CoV-2 - rna or antigen,01/12/2020
+7,G,4886,PHENOTYPE,SARS-CoV-2RNADetectionResultNegative,SARS-CoV-2RNADetectionResultNegative,Case finding,Dichotomous,Any concept indicating negative test result for SARS-CoV-2 - rna,01/12/2020
+7,G,4887,PHENOTYPE,SARS-CoV-2AntigenDetectionResultNegative,SARS-CoV-2AntigenDetectionResultNegative,Case finding,Dichotomous,Any concept indicating negative test result for SARS-CoV-2 - antigen,01/12/2020
+7,G,4888,PHENOTYPE,SARS-CoV-2AntibodyDetectionResultNegative,SARS-CoV-2AntibodyDetectionResultNegative,Case finding,Dichotomous,"Any concept indicating negative test result for SARS-CoV-2 antibody, nonspecific or IGa,IgG, IgM",01/12/2020
+7,G,4889,PHENOTYPE,SARS-CoV-2AntibodyDetectionResultPositive,SARS-CoV-2AntibodyDetectionResultPositive,Case finding,Dichotomous,"Any concept indicating positive test result for SARS-CoV-2 antibody, nonspecific or IGa,IgG, IgM",01/12/2020
+7,G,4890,PHENOTYPE,SARS-CoV-2InvestigationDone,SARS-CoV-2InvestigationDone,Case finding,Dichotomous,Any procedural concept indicating test for SARS-CoV-2 excluding antibody tests & excluding results of tests  ,01/12/2020
+7,G,4891,PHENOTYPE,SARS-CoV-2Vaccination,SARS-CoV-2Vaccination,Case finding,Dichotomous,Any event concept indicating administration of SARS-CoV-2 vaccination whether first or any subsequent dose.  Does not include vaccination codes,01/12/2020
+7,G,4892,PHENOTYPE,AdministrationOfFirstDoseOfSARS-CoV-2Vaccine,AdministrationOfFirstDoseOfSARS-CoV-2Vaccine,Case finding,Dichotomous,Administration of SARS-CoV-2 vaccination first dose,01/12/2020
+7,G,4893,PHENOTYPE,AdministrationOfSecondDoseOfSARS-CoV-2Vaccine,AdministrationOfSecondDoseOfSARS-CoV-2Vaccine,Case finding,Dichotomous,Administration of SARS-CoV-2 vaccination second dose,01/12/2020
+7,G,4894,PHENOTYPE,MeasurementOfSARS-CoV-2Antibody,MeasurementOfSARS-CoV-2Antibody,Case finding,Dichotomous,Any concept indicating test procedure for SARS-CoV-2 antibody.  Note this does NOT imply any result to test,01/12/2020
+7,G,4895,PHENOTYPE,SARS-CoV-2DetectionResultPositive,SARS-CoV-2DetectionResultPositive,Case finding,Dichotomous,Positive test result for SARS-CoV-2 - rna or antigen,01/12/2020
+7,G,4896,PHENOTYPE,COVID-19Excluded,COVID-19Excluded,Case finding,Dichotomous,Explicit statement that COVID-19 is excluded (overarches 4883 and 4884),02/12/2020
+7,G,4897,PHENOTYPE,CoronavirusInfection,CoronavirusInfection,Case finding,Dichotomous,Sole concept for non specific Coronavirus infection,02/12/2020
+7,G,4898,PHENOTYPE,SuspectedCoronavirusInfection,SuspectedCoronavirusInfection,Case finding,Dichotomous,Sole concept for suspected non specific Coronavirus infection,02/12/2020
+7,G,4899,PHENOTYPE,ExposureToCoronavirusInfection,ExposureToCoronavirusInfection,Case finding,Dichotomous,Sole concept for exposure to non specific Coronavirus infection,02/12/2020
+7,G,4900,PHENOTYPE,SocialPrescribingOffered,SocialPrescribingOffered,Case finding,Dichotomous,,06/12/2020
+7,G,4901,PHENOTYPE,SocialPrescribingForMentalHealthTherapy,SocialPrescribingForMentalHealthTherapy,Case finding,Dichotomous,Receiving mental health therapy resulting from social prescribing,06/12/2020
+7,G,4902,PHENOTYPE,SocialPrescribingDeclined,SocialPrescribingDeclined,Case finding,Dichotomous,,06/12/2020
+7,G,4903,PHENOTYPE,AcuteCOVID-19Infection,AcuteCOVID-19Infection,Case finding,Dichotomous,,16/12/2020
+7,G,4904,PHENOTYPE,OngoingSymptomaticCOVID-19Infection,OngoingSymptomaticCOVID-19Infection,Case finding,Dichotomous,,16/12/2020
+7,G,4905,PHENOTYPE,PostCOVID-19Syndrome,PostCOVID-19Syndrome,Case finding,Dichotomous,,16/12/2020
+7,G,4906,PHENOTYPE,EntericCampylobacteriosis,EntericCampylobacteriosis,Case finding,Dichotomous,Any entry strongly implying Campylobacter intestinal infection,22/12/2020
+7,G,4907,PHENOTYPE,SalmonellaGastroenteritis,SalmonellaGastroenteritis,Case finding,Dichotomous,Any entry strongly implying Salmonella intestinal infection,22/12/2020
+7,G,4908,PHENOTYPE,ClostridialEntericDisease,ClostridialEntericDisease,Case finding,Dichotomous,Any entry strongly implying Clostridium perfringens intestinal infection,22/12/2020
+7,G,4909,PHENOTYPE,FindingOfTightChest,NULL,Case finding,Dichotomous,Any symptom indicating tight chest,29/12/2020
+7,G,4910,PHENOTYPE,FindingOfChestPain,NULL,Case finding,Dichotomous,"Any symptom indicating chest pain regardless of cause - cardiac, non cardiac etc",29/12/2020
+7,G,4911,PHENOTYPE,FindingOfPalpitations,NULL,Case finding,Dichotomous,,29/12/2020
+7,G,4912,PHENOTYPE,FindingOfAmnesia,NULL,Case finding,Dichotomous,any finding of memory loss or impairment,29/12/2020
+7,G,4913,PHENOTYPE,FindingOfForgetfulness,NULL,Case finding,Dichotomous,,29/12/2020
+7,G,4914,PHENOTYPE,FindingOfInabilityToConcentrate,NULL,Case finding,Dichotomous,,29/12/2020
+7,G,4915,PHENOTYPE,FindingOfParaesthesia,NULL,Case finding,Dichotomous,Paraesthesia but excluding numbness on its own,29/12/2020
+7,G,4916,PHENOTYPE,FindingOfNumbness,NULL,Case finding,Dichotomous,,29/12/2020
+7,G,4917,PHENOTYPE,FindingOfDizziness,NULL,Case finding,Dichotomous,Dizziness but excluding vertigo,29/12/2020
+7,G,4918,PHENOTYPE,FindingOfJointPain,NULL,Case finding,Dichotomous,Any finding of joint pain,29/12/2020
+7,G,4919,PHENOTYPE,FindingOfDepressedMood,NULL,Case finding,Dichotomous,Findings indicating depressed mood but excluding depression disorders,29/12/2020
+7,G,4920,PHENOTYPE,FindingOfAnxiety,NULL,Case finding,Dichotomous,Findings indicating anxious or worried but excluding anxiety disorder,29/12/2020
+7,G,4921,PHENOTYPE,FindingOfOtalgia,NULL,Case finding,Dichotomous,Findings indicating earache but excluding any disorder such as otitis media,29/12/2020
+7,G,4922,PHENOTYPE,FindingOfParosmia,NULL,Case finding,Dichotomous,Disturbed sensation of smell distinct from absent sense of smell,29/12/2020
+7,G,4923,EXPOSURE,COVID-19mRNAVaccinePfizerBiontechBNT162b2,COVID-19mRNAVaccineBNT162b2PfizerBioNTech,Drug vaccination,Dichotomous,Pfizer BioNTech vaccine administered,05/01/2021
+7,G,4924,INTERVENTION,SaveSampleForSerumSerology,NULL,Investigation,Dichotomous,Sample taken for future serology,08/01/2021
+1,G,4933,PHENOTYPE,HeavyDrinker,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4934,PHENOTYPE,DisorderCausedByAlcohol,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4935,PHENOTYPE,ChronicKidneyDiseaseStage3,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4936,PHENOTYPE,ChronicKidneyDiseaseStage4,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4937,PHENOTYPE,ChronicKidneyDiseaseStage5,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4938,PHENOTYPE,DiseaseOfLiver,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4939,PHENOTYPE,DisorderOfThyroidGland,NULL,Case Finding,Dichotomous,,20/01/2021
+1,G,4940,PHENOTYPE,TransientCerebralIschaemia,NULL,Case Finding,Dichotomous,,20/01/2021
+7,G,4941,PHENOTYPE,ChronicRhinitis,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4942,PHENOTYPE,FindingOfGeneralisedBodyAches,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4943,PHENOTYPE,FindingOfLossOfHair,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4944,PHENOTYPE,Alopecia,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4945,PHENOTYPE,FindingOfChestDiscomfort,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4946,PHENOTYPE,FindingOfTachycardia,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4947,PHENOTYPE,FindingOfDifficultySleeping,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4948,PHENOTYPE,Insomnia,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4949,PHENOTYPE,FindingOfVertigo,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4950,PHENOTYPE,Chilblains,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4951,PHENOTYPE,AcuteKidneyInjury,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4952,PHENOTYPE,AcuteRespiratoryDistressSyndrome,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4953,PHENOTYPE,AllergicReaction,NULL,Case Finding,Dichotomous,broad finding variable for allergic reaction of any cause,02/02/2021
+7,G,4954,PHENOTYPE,FindingOfAtaxia,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4955,PHENOTYPE,AutoimmuneHepatitis,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4956,PHENOTYPE,AutoimmuneThyroiditis,NULL,Case Finding,Dichotomous,Any autoimmune thyroiditis but excluding Graves disease,02/02/2021
+7,G,4957,PHENOTYPE,CardiacArrest,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4958,PHENOTYPE,FindingOfFeverWithChills,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4959,PHENOTYPE,Eczema,NULL,Case Finding,Dichotomous,Picks up eczema and atopic dermatitis but not lichen related conditions,02/02/2021
+7,G,4960,PHENOTYPE,Encephalitis,NULL,Case Finding,Dichotomous,Any concept indicating encephalitis whether on its own or in combination with anything else,02/02/2021
+7,G,4961,PHENOTYPE,Myelitis,NULL,Case Finding,Dichotomous,Any concept indicating myelitis whether on its own or in combination with anything else,02/02/2021
+7,G,4962,PHENOTYPE,Gastritis,NULL,Case Finding,Dichotomous,includes gastroenteritis concepts,02/02/2021
+7,G,4963,PHENOTYPE,Duodentitis,NULL,Case Finding,Dichotomous,includes all subtypes of duodenitis including diverticulitis of duodenum,02/02/2021
+7,G,4964,PHENOTYPE,FindingOfExcessiveSweating,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4965,PHENOTYPE,Hyperhidrosis,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4966,PHENOTYPE,InjectionSiteBruising,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4967,PHENOTYPE,InjectionSiteErythema,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4968,PHENOTYPE,InjectionSiteInduration,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4969,PHENOTYPE,InjectionSitePain,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4970,PHENOTYPE,InjectionSitePruritus,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4971,PHENOTYPE,InjectionSiteRash,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4972,PHENOTYPE,InjectionSiteUrticaria,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4973,PHENOTYPE,InjectionSiteBurning,NULL,Case Finding,Dichotomous,provided as possible alternative to warmth at injection site,02/02/2021
+7,G,4974,PHENOTYPE,InjectionSiteIrritated,NULL,Case Finding,Dichotomous,provided as possible alternative to warmth at injection site,02/02/2021
+7,G,4975,PHENOTYPE,InjectionSiteInflammation,NULL,Case Finding,Dichotomous,provided as possible alternative to warmth at injection site,02/02/2021
+7,G,4976,PHENOTYPE,MyastheniaGravis,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4977,PHENOTYPE,Narcolepsy,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4978,PHENOTYPE,OpticNeuritis,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4979,PHENOTYPE,PainInLimb,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4980,PHENOTYPE,ReyesSyndrome,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4981,PHENOTYPE,Rhabdomyolysis,NULL,Case Finding,Dichotomous,limited to concepts tagged as disorder,02/02/2021
+7,G,4982,PHENOTYPE,InjectionSiteSwelling,NULL,Case Finding,Dichotomous,,02/02/2021
+7,G,4983,PHENOTYPE,CriticalSiteHaemhorrhage,NULL,Case Finding,Dichotomous,any haemorrhage into any critical site as defined for major bleed,29/01/2021
+7,G,4984,OUTCOME,MeasurementOfRenalClearanceOfCreatinine,NULL,Case Finding,Dichotomous,Creatinine clearance test procedure - NOT result,29/01/2021
+7,G,4985,OUTCOME,CreatinineClearanceTest,NULL,Investigation,Numeric,"Includes observable entity concepts only,  Use this for test results",29/01/2021
+7,G,4986,INTERVENTION,TakingOfSwabForSARS-CoV-2,NULL,Case Finding,Dichotomous,Any concept specifically indicating that swab has been taken for SARS-CoV-2,02/02/2021
+7,G,4987,PHENOTYPE,InfectiousDisease,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4988,PHENOTYPE,NeoplasticDisease,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4989,PHENOTYPE,DisorderOfEndocrineSystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4990,PHENOTYPE,NutritionalDisorder,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4991,PHENOTYPE,MetabolicDisease,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4992,PHENOTYPE,DisorderOfImmuneFunction,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4993,PHENOTYPE,DisorderOfCellularComponentOfBlood,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4994,PHENOTYPE,BoneMarrowDisorder,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4995,PHENOTYPE,DisorderOfNervousSystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4996,PHENOTYPE,DisorderOfCardiovascularSystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4997,PHENOTYPE,DisorderOfRespiratorySystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4998,PHENOTYPE,DisorderOfDigestiveSystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,4999,PHENOTYPE,DisorderOfTheGenitourinarySystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,5000,PHENOTYPE,DisorderOfSkinAndOrSubcutaneousTissue,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,5001,PHENOTYPE,DisorderOfMusculoSkeletalSystem,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,5002,PHENOTYPE,DisorderOfConnectiveTissue,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+7,G,5003,PHENOTYPE,CongenitalDisease,NULL,Case Finding,Dichotomous,Curated for PHE Read 2 chapter heading,05/02/2021
+2,G,5004,PHENOTYPE,FindingOfPelvicMass,NULL,Case Finding,Dichotomous,Any concept explicitly indicating mass in pelvic region,13/02/2021
+7,G,5006,PHENOTYPE,RiskForDevelopingComplicationFromCOVID-19Infection,NULL,Case Finding,Dichotomous,Find latest risk category.  Use with variables 1519 and 5007,15/02/2021
+7,G,5007,PHENOTYPE,SelfIsolationNoteIssuedToPatient,NULL,Case Finding,Dichotomous,Self-isolation note issued.  Test with 5006 to check latest status,15/02/2021
+7,G,5008,PHENOTYPE,InfluenzaAAntigenLevel,NULL,Case Finding,Dichotomous,,19/02/2021
+7,G,5009,PHENOTYPE,InfluenzaANucleicAcidDetectionAssay,NULL,Case Finding,Dichotomous,,19/02/2021
+7,G,5010,PHENOTYPE,InfluenzaAVirusNucleicAcidDetectionAssay,NULL,Case Finding,Dichotomous,,19/02/2021
+7,G,5011,PHENOTYPE,InfluenzaBAntigenLevel,NULL,Case Finding,Dichotomous,,19/02/2021
+7,G,5012,PHENOTYPE,InfluenzaBNucleicAcidDetectionAssay,NULL,Case Finding,Dichotomous,,19/02/2021
+7,G,5013,PHENOTYPE,InfluenzaBVirusNucleicAcidDetectionAssay,NULL,Case Finding,Dichotomous,,19/02/2021
+10,G,5014,Drug therapy,DirectOralAntiCoagulantDrugs,NULL,Drug therapy case finding,Dichotomous,"DOACs - including Apixaban, Dabigatran, Edoxaban, Rivaroxaban",20/05/2021
+10,G,5015,Drug therapy,Fenofibrate,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5016,Drug therapy,Fluvoxamine,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5017,Drug therapy,CoumarinsAndPhenindione,NULL,Drug therapy case finding,Dichotomous,"Includes - Warfarin, Acenocoumarol, Phenindione,Phenprocoumon",20/05/2021
+10,G,5018,Drug therapy,Apixaban,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5019,Drug therapy,Dabigatran,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5020,Drug therapy,Edoxaban,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5021,Drug therapy,Rivaroxaban,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+7,G,5022,Investigation,BodyMassIndexObservableEntity,NULL,Case Finding,Numeric,,02/03/2021
+2,G,5023,PHENOTYPE,FindingOfFrankHaematuria,NULL,Case Finding,Dichotomous,Macroscopic haematuria,05/03/2021
+2,G,5024,PHENOTYPE,IronDeficiencyAnaemia,NULL,Case Finding,Dichotomous,,08/04/2021
+10,G,5025,Drug Therapy,Warfarin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5026,Drug Therapy,Acenocoumarol,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5027,Drug Therapy,Phenindione,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5028,Drug Therapy,Phenprocoumon,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5029,Drug Therapy,Lithium,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+7,G,5045,PHENOTYPE,HaemorrhagicStrokeExcludingSubarachnoid,NULL,Case Finding,Dichotomous,Excludes subarachnoid haemorrhage - use for CMMS,09/03/2021
+7,G,5046,PHENOTYPE,ChronicSinusitis,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5047,PHENOTYPE,SchizophreniaDisorder,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5048,PHENOTYPE,BipolarDisorder,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5049,PHENOTYPE,RheumatoidArthritis_CMMS,NULL,Case Finding,Dichotomous,Rheumatoid and connective tissue conditions. Specifically for CMMS.  See RheumatoidArthritis variable for other uses,09/03/2021
+7,G,5050,PHENOTYPE,Psoriasis,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5051,PHENOTYPE,SubstanceMisuse,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5052,PHENOTYPE,DisorderOfProstate,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5053,PHENOTYPE,Parkinsonism,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5054,PHENOTYPE,DevelopmentalAcademicDisorder,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5055,PHENOTYPE,IrritableBowelSyndrome,NULL,Case Finding,Dichotomous,,09/03/2021
+7,G,5056,PHENOTYPE,InflammatoryBowelDisease,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5057,PHENOTYPE,HearingLoss,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5058,PHENOTYPE,DiverticularDisease,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5059,PHENOTYPE,MalignantMelanoma,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5060,PHENOTYPE,Bronchiectasis,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5061,PHENOTYPE,VisualImpairment,NULL,Case finding,Dichotomous,,12/03/2021
+7,G,5062,ADMIN,ConsentGivenToParticipateInResearchStudy,NULL,Admin,Numeric,Use this to obtain CPMS number,10/03/2021
+7,G,5063,PHENOTYPE,UlcerativeColitis,NULL,Case finding,Dichotomous,,12/03/2021
+10,G,5064,Drug therapy,PsoriasisOrEczemaMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS - Variable to match POS172 for psoriasis and eczema Rx,20/05/2021
+10,G,5065,Drug therapy,AnalgesicsOrOpiodsNotMigraineMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS Analgesics or Opiods but not migraine treatment,20/05/2021
+10,G,5066,Drug therapy,AntiEpilepticMedicationExceptBenzodiazepines,NULL,Drug therapy case finding,Dichotomous,For CMMS Antiepileptics except bezodiazepines,20/05/2021
+10,G,5067,Drug therapy,AntiMigraineMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS Migraine Rx.  This is limited to all Triptans only,20/05/2021
+10,G,5068,Drug therapy,AntiSpasmodicMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS Antispasmodic Rx.  BNF for IBS,20/05/2021
+10,G,5069,Drug therapy,AntiEpilepticMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS AntiEpileptic Rx.  BNF all including benzodiazepines,20/05/2021
+10,G,5070,Drug therapy,AntiDepressantMedication,NULL,Drug therapy case finding,Dichotomous,For CMMS Antidepressant Rx.  BNF all antidepressants plus flupentixol,20/05/2021
+10,G,5071,Drug therapy,Laxatives,NULL,Drug therapy case finding,Dichotomous,For CMMS - Variable for laxatives - Based on BNF all laxatives,20/05/2021
+7,G,5072,PHENOTYPE,Appendicitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5073,PHENOTYPE,GeneralisedSeizure,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5074,PHENOTYPE,AcuteDisseminatedEncephalomyelitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5075,PHENOTYPE,MeningoEncephalitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5076,PHENOTYPE,AcuteMyocardialInfarction,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5077,PHENOTYPE,DisorderOfCapillaries,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5078,PHENOTYPE,AsepticMeningitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5079,PHENOTYPE,CardiogenicShock,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5080,PHENOTYPE,StressCardiomyopathy,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5081,PHENOTYPE,CardiacArrhythmia,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5082,PHENOTYPE,Lymphadenopathy,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5083,PHENOTYPE,LocalisedCutaneousVasculitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5084,PHENOTYPE,SubacuteThyroiditis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5085,PHENOTYPE,ImmuneThrombocytopaenia,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5086,PHENOTYPE,Thrombocytopaenia,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5087,PHENOTYPE,DisseminatedIntravascularCoagulation,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5088,PHENOTYPE,LimbIschaemia,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5089,PHENOTYPE,Vasculitis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5090,PHENOTYPE,Arthritis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5091,PHENOTYPE,EstdCreatinineClearance(Cockcroft-GaultFormula),NULL,Investigation,Numeric,Specifically Estimated CrCl by Cockcroft-Gault,26/03/2021
+7,G,5092,PHENOTYPE,Myocarditis,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5093,PHENOTYPE,TrashFoot,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5094,PHENOTYPE,ThrombosisOfRetinalArtery,NULL,Case finding,Dichotomous,,16/03/2021
+7,G,5095,PHENOTYPE,CerebralVenousSinusThrombosis,NULL,Case finding,Dichotomous,,23/03/2021
+7,G,5096,PHENOTYPE,IntracranialThrombophlebitis,NULL,Case finding,Dichotomous,,23/03/2021
+7,G,5097,PHENOTYPE,ThrombosisOfCerebralVeins,NULL,Case finding,Dichotomous,,23/03/2021
+7,G,5098,PHENOTYPE,IntracranialVenousThrombosis,NULL,Case finding,Dichotomous,,23/03/2021
+7,G,5099,PHENOTYPE,SplanchnicVenousThrombosis,NULL,Case Finding,Dichotomous,"Budd-Chiari, portal, splenic, mesenteric venous thrombosis",06/04/2021
+7,G,5100,PHENOTYPE,FractureOfBone,NULL,Case Finding,Dichotomous,,06/04/2021
+7,G,5101,Drug Therapy,CombinedOralContraceptives,NULL,Drug Therapy,Dichotomous,,20/04/2021
+10,G,5102,Drug Therapy,HormoneReplacementTherapy,NULL,NULL,NULL,NULL,NULL
+7,G,5103,PHENOTYPE,CongenitalHeartDisease,NULL,Case Finding,Dichotomous,,06/04/2021
+7,G,5104,OUTCOME,ActivatedPartialThromboplastinTime,NULL,Investigation,Numeric,,07/04/2021
+7,G,5105,OUTCOME,FibrinogenLevel,NULL,Investigation,Numeric,,07/04/2021
+7,G,5106,OUTCOME,D-DimerLevel,NULL,Investigation,Numeric,,07/04/2021
+7,G,5107,OUTCOME,D-DimerExpressedInFEU,NULL,Investigation,Numeric,,07/04/2021
+7,G,5108,PHENOYPE,ThromboticThrombocytopenicPurpura,NULL,Case Finding,Dichotomous,,07/04/2021
+7,G,5109,PHENOYPE,ThrombocytopenicPurpura,NULL,Case Finding,Dichotomous,,07/04/2021
+2,G,5110,PHENOYPE,LowerUrinaryTractSymptoms,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,G,5111,PHENOYPE,FindingOfDiarrhoea2WR,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+7,G,5112,PHENOYPE,IdiopathicThrombocytopenicPurpura,NULL,Case Finding,Dichotomous,,07/04/2021
+2,G,5113,PHENOYPE,FindingOfCough2WR,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,G,5114,PHENOYPE,FindingOfFrankHaematuria2WR,NULL,Case Finding,Dichotomous,Macroscopic haematuria - curated for 2 week rule,08/04/2021
+2,G,5115,PHENOYPE,FindingOfHaematuria2WR,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+2,G,5116,PHENOYPE,FindingOfIndigestion2WR,NULL,Case Finding,Dichotomous,curated for 2 week rule,08/04/2021
+7,G,5117,PHENOTYPE,DACVAP_haemorrhage,NULL,Case Finding,Dichotomous,General variable for DAC_vap haemorrhage,12/04/2021
+10,G,5118,Drug therapy,Budesonide,NULL,Drug therapy case finding,Dichotomous,limited to inhaled preparations,20/05/2021
+10,G,5119,Drug therapy,CorticosteroidsInhaled,NULL,Drug therapy case finding,Dichotomous,"Beclometasone, budesonide, ciclesonide, fluticasone, mometasone - limited to inhaled preparations",20/05/2021
+7,G,5120,PHENOTYPE,IntraocularHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5121,PHENOTYPE,AdrenalHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5122,PHENOTYPE,PulmonaryHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5123,PHENOTYPE,OEThroatHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5124,PHENOTYPE,RenalArteryHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5125,PHENOTYPE,UmbilicalHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5126,PHENOTYPE,HaemorrhageInOpticNerveSheaths,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5127,PHENOTYPE,RetrobulbarHaemorrhage,NULL,Case Finding,Dichotomous,,12/04/2021
+7,G,5128,PHENOTYPE,HaemorrhageOfEyelid,NULL,Case Finding,Dichotomous,,12/04/2021
+10,G,5129,Drug Therapy,Amoxicillin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5130,Drug Therapy,Ampicillin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5131,Drug Therapy,Azithromycin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5132,Drug Therapy,Benzylpenicillin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5133,Drug Therapy,Cefalexin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5134,Drug Therapy,Ciprofloxacin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5135,Drug Therapy,Clarithromycin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5136,Drug Therapy,Clindamycin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5137,Drug Therapy,Co-amoxiclav,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5138,Drug Therapy,Doxycycline,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5139,Drug Therapy,Erythromycin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5140,Drug Therapy,Flucloxacillin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5141,Drug Therapy,Levofloxacin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5142,Drug Therapy,Metronidazole,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5143,Drug Therapy,Nitrofurantoin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5144,Drug Therapy,Ofloxacin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5145,Drug Therapy,Phenoxymethylpenicillin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5146,Drug Therapy,Teicoplanin,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5147,Drug Therapy,Trimethoprim,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+7,G,5149,PHENOTYPE,IntellectualDisability,NULL,Case Finding,Dichotomous,,13/04/2021
+7,G,5150,PHENOTYPE,CompleteTrisomy21Syndrome,NULL,Case Finding,Dichotomous,,13/04/2021
+7,G,5151,PHENOTYPE,Neurosis,NULL,Case Finding,Dichotomous,,13/04/2021
+7,G,5152,PHENOTYPE,EatingDisorder,NULL,Case Finding,Dichotomous,,13/04/2021
+10,G,5153,Drug Therapy,Antimuscarinics,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5154,Drug Therapy,Beta2AdrenoceptorAgonistsSelective,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5155,Drug Therapy,LeukotrieneReceptorAgonists,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5156,Drug Therapy,MastCellStabilisers,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5157,Drug Therapy,PhosphodiesteraseInhibitors,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5158,Drug Therapy,Xanthines,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5159,Drug Therapy,ImmunosuppressantsAirwaysDisease,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+10,G,5160,Drug Therapy,Anxiolytics,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+7,G,5164,Exposure,COVID-19VaccineAstraZeneca(ChAdOx1S[Recombinant]),NULL,Drug Vaccination,Dichotomous,AstraZeneca vaccine administered,19/04/2021
+7,G,5165,Exposure,COVID-19mRNA(NucleosideModified)VaccineModerna,NULL,Drug Vaccination,Dichotomous,Moderna vaccine administered,19/04/2021
+7,G,5166,Exposure,COVID-19VaccineValneva(InactivatedAdjuvWholeVirus),NULL,Drug Vaccination,Dichotomous,Valneva vaccine administered,19/04/2021
+7,G,5167,Exposure,COVID-19VaccineNovavax(Adjuvanted),NULL,Drug Vaccine,Dichotomous,Novavax vaccine administered,08/06/2021
+7,G,5168,Exposure,COVID-19VaccineJanssenCilag,NULL,Drug Vaccination,Dichotomous,JanssenCilag vaccine administered,19/04/2021
+7,G,5169,PHENOTYPE,MechanicalHeartValveReplacement,NULL,Case Finding,Dichotomous,,21/04/2021
+7,G,5170,PHENOTYPE,SevereMitralValveStenosis,NULL,Case Finding,Dichotomous,,21/04/2021
+7,G,5171,PHENOTYPE,HaemorrhagicDiarrhoea,NULL,Case Finding,Dichotomous,Bloody diarrhoea for syndromic surveillance,27/04/2021
+7,G,5172,PHENOTYPE,EnteroviralVesicularStomatitisWithExanthem,NULL,Case Finding,Dichotomous,Hand Foot and Mouth for syndromic surveillance,27/04/2021
+7,G,5173,PHENOTYPE,PrimateErythroparvovirus1Infection,NULL,Case Finding,Dichotomous,Slapped cheek sydrome plus its many synonyms for syndromic surveillance,27/04/2021
+7,G,5174,PHENOTYPE,SubarachnoidHaemorrhage,NULL,Case Finding,Dichotomous,,07/05/2021
+7,G,5175,PHENOTYPE,SubconjunctivalHaemorrhage,NULL,Case Finding,Dichotomous,,07/05/2021
+7,G,5176,PHENOTYPE,SolidOrganTransplant,NULL,Case finding,Dichotomous,Procedural concepts indicating solid organ transplant performed,01/06/2021
+7,G,5179,PHENOTYPE,PostexertionalFatigue,NULL,Case Finding,Dichotomous,,11/05/2021
+7,G,5180,PHENOTYPE,MildFrailty,NULL,Case Finding,Numeric,"Take latest of 5180,5181, 5182",14/05/2021
+7,G,5181,PHENOTYPE,ModerateFrailty,NULL,Case Finding,Numeric,"Take latest of 5180,5181, 5182",14/05/2021
+7,G,5182,PHENOTYPE,SevereFrailty,NULL,Case Finding,Numeric,"Take latest of 5180,5181, 5182",14/05/2021
+7,G,5183,PHENOTYPE,ElectronicFrailtyIndexScore,NULL,Case Finding,Numeric,,14/05/2021
+10,G,5214,Drug Therapy,SystemicSteroidsAsthma,NULL,Drug therapy case finding,Dichotomous,,20/05/2021
+7,G,5215,PHENOTYPE,PulmonaryEmphysema,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5216,PHENOTYPE,DiffuseInterstitialPulmonaryFibrosis,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5217,PHENOTYPE,Pneumoconiosis,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5218,PHENOTYPE,NephroticSyndrome,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5219,PHENOTYPE,RenalTransplant,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5220,PHENOTYPE,CirrhosisOfLiver,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5221,PHENOTYPE,CongenitalBiliaryAtresia,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5222,PHENOTYPE,ChronicHepatitis,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5223,PHENOTYPE,PostPoliomyelitisSyndrome,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5224,PHENOTYPE,CerebralPalsy,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5225,PHENOTYPE,MotorNeuroneDisease,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5226,PHENOTYPE,CongenitalDegenerationOfNervousSystem,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5227,PHENOTYPE,SicklingDisorderDueToHaemoglobinS,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5228,PHENOTYPE,ThalassemiaMajor,NULL,Case Finding,Dichotomous,,18/05/2021
+7,G,5229,PHENOTYPE,ImpairedExerciseTolerance,NULL,Case Finding,Dichotomous,Finding of impaired or worsening exercise tolerance,19/05/2021
+7,G,5230,PHENOTYPE,IrregularPeriods,NULL,Case Finding,Dichotomous,,19/05/2021
+7,G,5231,PHENOTYPE,Menorrhagia,NULL,Case Finding,Dichotomous,,19/05/2021
+7,G,5232,PHENOTYPE,Amenorrhoea,NULL,Case Finding,Dichotomous,,19/05/2021
+7,G,5233,PHENOTYPE,ExcessiveThirst,NULL,Case Finding,Dichotomous,Finding of excessive or increased thirst,19/05/2021
+7,G,5234,PHENOTYPE,PoorGlycaemicControl,NULL,Case Finding,Dichotomous,,19/05/2021
+7,G,5235,PHENOTYPE,FindingOfCognitiveImpairment,NULL,Case Finding,Dichotomous,"Includes Cognitive impairment, information conversion problem, lack of thinking ability, impaired executive function, cognitive deficit in attention, cognitive changes due to organic disorder",19/05/2021
+7,G,5236,PHENOTYPE,BodyWeight,NULL,Case Finding,Numeric,,21/05/2021
+7,G,5237,PHENOTYPE,OesophagealRefluxFinding,NULL,Case Finding,Dichotomous,,21/05/2021
+7,G,5238,PHENOTYPE,CHA2DS2-VAScStrokeRiskScore,NULL,Case Finding,Numeric,,21/05/2021
+10,G,5239,Drug Therapy,Ciclosporin,NULL,Drug therapy case finding,Dichotomous,,21/05/2021
+10,G,5240,Drug Therapy,Dronedarone,NULL,Drug therapy case finding,Dichotomous,,21/05/2021
+10,G,5241,Drug Therapy,Ketoconazole,NULL,Drug therapy case finding,Dichotomous,,21/05/2021
+10,G,5242,Drug Therapy,Verapamil,NULL,Drug therapy case finding,Dichotomous,,21/05/2021
+7,G,5243,Intervention,FullBloodCount_Procedure,NULL,Investigation request,Dichotomous,,22/05/2021
+7,G,5244,Outcome,FBCFullBloodCount_ObservableEntity,NULL,Investigation result,Numeric,Value field most likely to be blank - concept likely to be used as a battery label,22/05/2021
+7,G,5245,Outcome,FullBloodCountNormal,NULL,Investigation result,Dichotomous,,22/05/2021
+7,G,5246,Outcome,FullBloodCountAbnormal,NULL,Investigation result,Dichotomous,,22/05/2021
+7,G,5247,Outcome,FullBloodCountBorderline,NULL,Investigation result,Dichotomous,,22/05/2021
+7,G,5248,Outcome,RedBloodCellCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5249,Outcome,LeucocyteCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5250,Outcome,NeutrophilCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5251,Outcome,EosinophilCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5252,Outcome,BasophilCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5253,Outcome,LymphocyteCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5254,Outcome,MonocyteCount,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5255,Outcome,HaemoglobinEstimation,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5256,Outcome,Haematocrit,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5257,Outcome,MCHMeanCorpuscularHaemoglobin,NULL,Investigation result,Numeric,,25/05/2021
+7,G,5258,Outcome,RedBloodCellDistributionWidth,NULL,Investigation result,Numeric,,25/05/2021
+10,G,5259,Drug Therapy,Amiodarone,NULL,Drug therapy case finding,Dichotomous,,01/06/2021
+10,G,5260,Drug Therapy,Quinidine,NULL,Drug therapy case finding,Dichotomous,,01/06/2021
+10,G,5261,Drug Therapy,Ticagrelor,NULL,Drug therapy case finding,Dichotomous,,01/06/2021
+10,G,5262,Drug Therapy,SSRIs,NULL,Drug therapy case finding,Dichotomous,"SSRIs including clitalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline",01/06/2021
+10,G,5263,Drug Therapy,SNRIs,NULL,Drug therapy case finding,Dichotomous,"SNRIs including duloxetine, venlafaxine",01/06/2021
+10,G,5264,Drug Therapy,AntiplateletDrugs,NULL,Drug therapy case finding,Dichotomous,"Antiplatelet drugs including cilostazole, aspirin, cangrelor, clopidogrel, dipyridamole, prasugrel, selexipag, ticagrelor",01/06/2021
+10,G,5265,Drug Therapy,Bisphosphonates,NULL,Drug therapy case finding,Dichotomous,"Bisphosphonates including Alendronic acid, ibandrnic acid, risedronate, sodium clodronate, pamidronate, zoledronic acid",01/06/2021
+10,G,5266,Drug Therapy,NSAIDs,NULL,Drug therapy case finding,Dichotomous,"NSAIDs including aceclofenac, celecoxib, diclofenac, etodolac, etoricoxib, flurbiprofen, ibuprofen, indometacin, ketoprofen, mefenamic acid, meloxicam, nabumetone, naproxen, piroxicam, sulindac, tenoxicam, tiaprofenic acid",01/06/2021
+10,G,5267,Drug Therapy,Prednisolone,NULL,Drug therapy case finding,Dichotomous,Oral prednisolone,01/06/2021
+10,G,5268,Drug Therapy,Statins,NULL,Drug therapy case finding,Dichotomous,"Statins including atorvastatin, fluvastatin, pravastatin, rosuvastatin, simvastatin",01/06/2021
+10,G,5269,Drug Therapy,ACEInhibitors,NULL,Drug therapy case finding,Dichotomous,"ACE inhibitors including captopril, enalapril, fosinopril, imidapril, lisinopril, perindopril, quinapril, ramipril, trandolapril",01/06/2021
+10,G,5270,Drug Therapy,AngiotensinReceptorBlockers,NULL,Drug therapy case finding,Dichotomous,"ARB inhibitors including valsartan, azilsartan, candesartan, eprosartan, irbesartan, losartan, olmesartan, telmisartan",01/06/2021
+7,G,5273,PHENOTYPE,PostAcuteCOVID-19,NULL,Case finding,Dichotomous,COVID-19 symptoms lasting longer than 3 weeks but not more than 12 weeks.  Also includes OngoingSymptomaticCOVID-19Infection,08/06/2021
+7,G,5274,PHENOTYPE,PostCOVID-19SyndromeResolved,NULL,Case finding,Dichotomous,,08/06/2021
+7,G,5275,PHENOTYPE,OcclusionOfArtery,NULL,Case finding,Dichotomous,Designed to pick up aterial thromboembolism / arterial insufficiency - wholoe body and limbs,17/06/2021
+7,G,5276,PHENOTYPE,DeepVenousThrombosisOfLimb,NULL,Case finding,Dichotomous,Deep venous thrombosis of upper or lower limb.  Excludes superficial phlebitis,30/06/2021
+7,G,5277,PHENOTYPE,BronchopulmonaryDysplasiaOfNewborn,NULL,Case finding,Dichotomous,,06/07/2021
+7,G,5278,PHENOTYPE,HypertensiveHeartDisease,NULL,Case finding,Dichotomous,,06/07/2021
+7,G,5279,PHENOTYPE,GestationalDiabetesMellitus,NULL,Case finding,Dichotomous,,06/07/2021
+7,G,5280,PHENOTYPE,PsychoticDisorder,NULL,Case finding,Dichotomous,,06/07/2021
